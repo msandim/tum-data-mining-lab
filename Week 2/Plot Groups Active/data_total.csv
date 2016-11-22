@@ -1,876 +1,875 @@
-"Group","Start","End","Incidents"
-"Farabundo Marti National Liberation Front (FMLN)",1980-01-04,1992-10-27,1222
-"Irish Republican Army (IRA)",1971-02-06,2003-11-24,783
-"Al-Shabaab",2007-11-02,2015-12-29,767
-"Taliban",2001-09-26,2015-12-25,740
-"New People's Army (NPA)",1970-01-31,2015-12-23,733
-"Nicaraguan Democratic Force (FDN)",1983-03-15,1987-06-19,578
-"Liberation Tigers of Tamil Eelam (LTTE)",1985-06-12,2009-05-15,519
-"Kurdistan Workers' Party (PKK)",1984-08-15,2015-12-31,502
-"Islamic State of Iraq and the Levant (ISIL)",2013-05-16,2015-12-29,452
-"Revolutionary Armed Forces of Colombia (FARC)",1977-09-19,2015-11-25,435
-"Shining Path (SL)",1980-07-28,2015-08-05,413
-"Donetsk People's Republic",2014-04-16,2015-12-04,375
-"Al-Qaida in the Arabian Peninsula (AQAP)",2010-11-30,2015-12-17,360
-"Palestinians",1970-09-01,2001-05-08,309
-"National Liberation Army of Colombia (ELN)",1975-03-12,2015-10-25,182
-"Tehrik-i-Taliban Pakistan (TTP)",2008-01-01,2015-12-11,162
-"Hezbollah",1983-03-01,2015-01-28,143
-"Boko Haram",2011-05-30,2015-12-17,139
-"Huthi Extremists",2013-09-30,2015-12-25,126
-"Algerian Islamic Extremists",1998-02-20,2008-12-27,125
-"Bangsamoro Islamic Freedom Movement (BIFM)",2012-08-05,2015-12-31,120
-"Basque Fatherland and Freedom (ETA)",1975-05-06,2007-09-10,119
-"M-19 (Movement of April 19)",1978-01-25,1988-06-21,118
-"Nicaraguan Resistance",1987-06-19,1990-03-23,113
-"Democratic Revolutionary Alliance (ARDE)",1983-05-01,1986-02-16,112
-"Luhansk People's Republic",2014-05-08,2015-11-03,100
-"Palestine Liberation Organization (PLO)",1979-05-06,1994-04-02,97
-"Gunmen",1995-06-02,2011-11-29,89
-"Chechen Rebels",1997-06-26,2014-04-03,84
-"Palestinian Extremists",2012-07-25,2015-12-31,84
-"African National Congress (South Africa)",1981-05-27,1994-11-20,76
-"Salafist Group for Preaching and Fighting (GSPC)",1999-03-01,2007-01-23,75
-"Hamas (Islamic Resistance Movement)",1991-04-16,2015-12-10,72
-"Muslim Fundamentalists",1992-03-28,2015-12-09,72
-"Separatists",1984-11-18,2015-11-30,68
-"Maoists",2001-02-27,2015-12-02,63
-"Al-Qaida in the Islamic Maghreb (AQIM)",2007-01-30,2015-08-03,58
-"People's Liberation Front (JVP)",1988-01-13,1990-02-04,56
-"Al-Nusrah Front",2012-09-07,2015-12-25,55
-"Al-Qaida in Iraq",2004-12-14,2013-03-19,54
-"Communist Party of India - Maoist (CPI-Maoist)",2005-09-04,2015-08-30,54
-"Abu Sayyaf Group (ASG)",1994-11-27,2015-12-28,53
-"Tamils",1984-04-09,2000-01-01,53
-"Baloch Liberation Front (BLF)",2012-01-11,2015-12-29,52
-"Sandinista National Liberation Front (FSLN)",1977-10-13,1979-06-05,49
-"Sinai Province of the Islamic State",2014-11-13,2015-12-20,49
-"Left-Wing Militants",1970-01-06,1971-11-30,48
-"National Union for the Total Independence of Angola (UNITA)",1983-02-01,2001-04-09,48
-"Contras",1981-12-01,1983-03-21,45
-"Popular Liberation Army (EPL)",1977-07-01,2002-05-14,45
-"Moro Islamic Liberation Front (MILF)",1995-09-20,2014-07-11,42
-"Simon Bolivar Guerrilla Coordinating Board (CGSB)",1986-01-19,1992-10-25,40
-"Baloch Republican Army (BRA)",2012-01-01,2015-10-17,39
-"Guatemalan National Revolutionary Unity (URNG)",1985-05-16,1996-01-16,35
-"Hizbul Mujahideen (HM)",1990-11-07,2015-10-22,35
-"People's Liberation Army (India)",1984-03-15,2015-10-26,35
-"Revolutionary Organization of People in Arms (ORPA)",1979-11-29,1990-03-28,35
-"Tupac Amaru Revolutionary Movement (MRTA)",1985-11-06,1995-12-01,35
-"Guerrilla Army of the Poor (EGP)",1975-11-01,1988-02-21,33
-"Irish National Liberation Army (INLA)",1975-02-25,1996-09-03,31
-"Lashkar-e-Taiba (LeT)",1999-04-01,2015-11-17,31
-"Manuel Rodriguez Patriotic Front (FPMR)",1984-07-05,1992-10-28,31
-"Mozambique National Resistance Movement (MNR)",1987-06-25,2015-12-25,31
-"Barqa Province of the Islamic State",2014-11-12,2015-12-13,30
-"Moro National Liberation Front (MNLF)",1978-08-22,2013-09-11,30
-"Muslim Brotherhood",1979-06-16,2014-03-15,29
-"Baloch Liberation Army (BLA)",2005-08-22,2015-12-22,28
-"Islamist Extremists",1992-05-10,2010-10-28,27
-"Tribesmen",2013-12-21,2015-04-19,27
-"Free Syrian Army",2012-02-24,2015-11-24,26
-"Muttahida Qami Movement (MQM)",1994-09-08,1995-10-06,26
-"Southern Mobility Movement (Yemen)",2010-09-03,2015-04-13,26
-"Ulster Freedom Fighters (UFF)",1972-03-26,2015-09-10,26
-"Ulster Volunteer Force (UVF)",1973-02-04,2000-09-16,26
-"Lashkar-e-Islam (Pakistan)",2010-01-08,2015-03-28,25
-"16 January Organization for the Liberation of Tripoli",1989-01-20,1989-12-12,24
-"Armed Islamic Group (GIA)",1994-04-26,2006-05-08,24
-"Lord's Resistance Army (LRA)",1995-04-25,2015-10-09,23
-"Ricardo Franco Front (Dissident FARC)",1985-01-30,1988-12-16,23
-"Popular Resistance Committees (Yemen)",2015-04-10,2015-08-27,22
-"United Liberation Front of Assam (ULFA)",1996-08-18,2014-09-19,22
-"Kashmiri Militants",1990-05-04,1996-12-01,21
-"Official Irish Republican Army (OIRA)",1971-03-08,1975-10-31,21
-"Sikh Extremists",1984-04-14,1992-09-24,21
-"Turkish People's Liberation Army",1970-08-31,1976-03-27,21
-"Ansar Bayt al-Maqdis (Ansar Jerusalem)",2012-09-21,2014-11-04,20
-"Black Nationalists",1970-03-12,1985-12-12,20
-"Inkatha Freedom Party (IFP)",1992-03-13,1996-03-27,20
-"Misurasata Indian Organization",1983-03-30,1985-01-14,20
-"Narco-Terrorists",1989-10-07,1992-01-10,20
-"National Socialist Council of Nagaland-Khaplang (NSCN-K)",2008-04-11,2015-09-02,20
-"Dev Sol",1981-04-04,1994-12-15,19
-"Mujahedin-e Khalq (MEK)",1972-05-31,1994-03-18,19
-"9 February",1988-01-27,1989-03-07,18
-"Movement of Democratic Forces of Casamance",1990-07-23,2015-10-30,18
-"Sudan People's Liberation Movement in Opposition (SPLM-IO)",2014-02-23,2015-09-13,18
-"Hutus",1992-03-05,1999-06-26,17
-"Movement for Oneness and Jihad in West Africa (MUJAO)",2013-01-30,2014-03-09,17
-"Muslim Militants",1986-02-26,2000-02-24,17
-"Supporters of Abd Rabbuh Mansur Hadi",2015-03-12,2015-08-05,17
-"White Extremists",1970-01-25,1996-10-03,17
-"Aryan Republican Army",1994-01-25,1995-12-19,16
-"Kosovo Liberation Army (KLA)",1998-04-14,1999-06-17,16
-"Palestinian Islamic Jihad (PIJ)",1990-10-21,2015-09-21,16
-"Popular Front for the Liberation of Palestine (PFLP)",1970-06-10,2012-11-10,16
-"Protestant Extremists",1972-07-13,2000-09-10,16
-"Tripoli Province of the Islamic State",2015-03-14,2015-12-19,16
-"Allied Democratic Forces (ADF)",1997-07-04,2015-12-27,15
-"Khorasan Chapter of the Islamic State",2015-04-04,2015-12-13,15
-"Left-Wing Guerrillas",1980-07-27,1996-09-05,15
-"Brunswijk Jungle Commando",1986-07-23,1990-07-21,14
-"Fulani Militants",2013-03-17,2015-05-06,14
-"May 19 Communist Order",1976-12-06,1983-08-18,14
-"Montoneros (Argentina)",1973-04-04,1979-12-08,14
-"People's Liberation Forces (FPL)",1978-10-11,1979-10-29,14
-"Red Army Faction (RAF)",1979-06-25,1985-09-06,14
-"Shaykh Subhi Al-Salih Forces",1988-12-04,1989-03-14,14
-"United National Liberation Front (UNLF)",2003-11-05,2015-11-17,14
-"Abu Nidal Organization (ANO)",1978-08-05,1992-10-20,13
-"First of October Antifascist Resistance Group (GRAPO)",1976-03-27,1990-06-15,13
-"Shanti Bahini - Peace Force",1989-06-22,1996-05-19,13
-"Sudan People's Liberation Movement - North",2012-10-08,2015-06-02,13
-"Ansar al-Sharia (Libya)",2013-11-25,2015-05-13,12
-"Bangladesh Nationalist Party (BNP)",1991-07-03,2013-04-13,12
-"Corsican National Liberation Front (FLNC)",1978-01-14,2003-07-07,12
-"Democratic Front for the Liberation of Palestine (DFLP)",1982-03-25,2014-04-12,12
-"Ex-Somoza National Guard",1980-08-06,1981-12-09,12
-"Haqqani Network",2009-06-30,2014-04-28,12
-"Khmer Rouge",1978-08-30,1999-03-07,12
-"Lebanese National Resistance Front",1983-01-05,1991-11-23,12
-"Al-Aqsa Martyrs Brigade",2002-02-19,2015-05-03,11
-"Al-Naqshabandiya Army",2014-09-07,2015-01-12,11
-"Communists",1978-09-30,1994-08-01,11
-"Free Aceh Movement (GAM)",1989-09-26,2003-05-01,11
-"Halqa-e-Mehsud",2015-05-03,2015-11-22,11
-"Hizb-I-Islami",1991-09-30,2015-04-08,11
-"Islamic Front (Syria)",2014-02-19,2015-02-14,11
-"Military Council of the Tribal Revolutionaries (MCTR)",2014-04-03,2014-12-23,11
-"Mujahideen Ansar",2013-01-13,2014-11-11,11
-"Revolutionary United Front (RUF)",1994-04-01,2000-06-12,11
-"Runda Kumpulan Kecil (RKK)",2012-01-15,2015-10-30,11
-"Thai Islamic Militants",2005-05-04,2006-05-02,11
-"Armenian Secret Army for the Liberation of Armenia",1976-01-01,1986-10-01,10
-"Haftar Militia",2014-05-16,2014-11-15,10
-"Moslem Activists",1994-04-08,1994-06-14,10
-"National Democratic Front of Bodoland (NDFB)",1999-08-11,2014-10-09,10
-"Rebel Armed Forces of Guatemala (FAR)",1983-12-07,1989-10-02,10
-"Shan State Progressive Party",1979-01-03,1979-03-20,10
-"Southern Front",2015-06-09,2015-06-17,10
-"Student Radicals",1970-02-06,1971-10-03,10
-"Tuaregs",1991-11-09,2014-11-02,10
-"Al-Qaida",2000-01-03,2008-02-01,9
-"Irish People's Liberation Organization (IPLO)",1986-12-21,1992-11-01,9
-"Lashkar-e-Balochistan",2014-02-07,2015-11-06,9
-"Militants",2008-08-28,2011-11-24,9
-"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM)",2008-06-26,2012-11-21,9
-"Neo-Nazi Group",1975-08-16,2013-11-03,9
-"Revolutionary Cells",1976-06-02,1982-07-02,9
-"Anti-Terrorist Liberation Group (GAL)",1983-12-19,1987-07-24,8
-"Black Liberation Army",1971-01-24,1974-05-03,8
-"Ejercito Revolucionaria del Pueblo (ERP) (Argentina)",1972-04-10,1975-07-01,8
-"National Liberation Front of Tripura (NLFT)",1996-04-03,2014-10-23,8
-"Popular Revolutionary Army (Mexico)",1996-07-16,1998-07-25,8
-"South-West Africa People's Organization (SWAPO)",1979-02-27,1988-09-09,8
-"Tawhid and Jihad",2004-02-18,2004-10-14,8
-"Ahrar al-Sham",2015-04-27,2015-10-04,7
-"Beirut Martyrs Battalion",1988-09-02,1989-06-22,7
-"Bougainville Revolutionary Army (BRA)",1992-08-02,1996-09-08,7
-"Coalition to Save the Preserves (CSP)",2000-04-09,2001-01-18,7
-"Democratic Karen Buddhist Army (DKBA)",1995-02-13,2014-09-27,7
-"Fighting Popular Rally",1977-12-23,1977-12-23,7
-"Free Papua Movement (OPM-Organisasi Papua Merdeka)",2006-04-10,2014-08-01,7
-"Garo National Liberation Army",2010-11-17,2015-03-31,7
-"Hizbul al Islam (Somalia)",2010-07-05,2010-12-13,7
-"Left-Wing Terrorists",1980-08-05,1991-11-17,7
-"National Socialist Council of Nagaland",1988-04-19,1997-07-22,7
-"Sudan People's Liberation Army (SPLA)",1988-02-12,2011-01-08,7
-"Supporters of the Islamic State in Jerusalem",2015-07-19,2015-07-19,7
-"Taliban (Pakistan)",2006-05-01,2007-11-15,7
-"United Freedom Front (UFF)",1982-04-02,1984-06-05,7
-"Adan-Abyan Province of the Islamic State",2015-08-12,2015-11-04,6
-"Amal",1986-05-01,1999-10-23,6
-"Black Panther Group (Palestinian)",1991-11-26,1995-11-29,6
-"Cinchoneros Popular Liberation Movement",1986-10-11,1991-05-26,6
-"Colombian Guerrillas",1987-01-26,1996-02-08,6
-"Democratic Front for the Liberation of Rwanda (FDLR)",2015-04-06,2015-09-24,6
-"Eelam People's Revolutionary Liberation Front (EPRLF)",1986-03-17,1989-11-21,6
-"Guerrillas",1979-08-09,1987-01-06,6
-"Jaish-e-Mohammad (JeM)",2001-07-21,2015-11-25,6
-"Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J)",2007-04-19,2010-04-06,6
-"Liberation and Justice Movement (LJM)",2014-01-13,2014-11-23,6
-"Macheteros",1978-08-24,1986-11-05,6
-"Movement for the Emancipation of the Niger Delta (MEND)",2007-01-10,2013-11-13,6
-"Mujahideen Youth Movement (MYM)",2007-06-01,2008-05-07,6
-"Muslim Separatists",1992-05-24,1995-09-14,6
-"November 17 Revolutionary Organization (N17RO)",1984-04-03,1992-03-05,6
-"Paramilitaries",1995-01-14,2001-01-01,6
-"People's Army (Myanmar)",1979-01-02,1979-02-08,6
-"People's War Group (PWG)",1998-08-09,2004-10-14,6
-"Pro-Russia Militia",2014-03-18,2015-04-21,6
-"Purbo Banglar Communist Party",1995-10-04,2011-05-02,6
-"Rahanwein Resistance Army (RRA)",1997-08-14,1997-12-29,6
-"Red Brigades",1978-05-01,1982-08-26,6
-"Rival Activists",1995-09-15,1996-05-07,6
-"Spanish Basque Battalion (BBE) (rightist)",1978-12-21,1981-04-23,6
-"World Church of the Creator",1999-07-02,1999-07-04,6
-"Ansar al-Dine (Mali)",2015-06-27,2015-12-25,5
-"Armed Proletarian Power",1977-01-01,1977-01-01,5
-"Baader-Meinhof Group",1970-11-09,1973-09-29,5
-"Coordination Committee (CORCOM)",2013-01-25,2014-01-26,5
-"Cossack Separatists",2014-10-07,2014-10-07,5
-"Gbagbo Loyalists",2012-08-05,2012-08-13,5
-"Jamaat-E-Islami (Bangladesh)",1992-05-08,2014-04-04,5
-"Kurdish Democratic Party-Iraq (KDP)",1988-11-16,1998-08-16,5
-"Okba Ibn Nafaa Brigade",2014-07-16,2015-08-23,5
-"Polisario Front",1978-12-10,1987-02-18,5
-"Quintin Lame",1985-05-20,1987-05-24,5
-"Recontras",1991-08-27,1996-07-14,5
-"Revolutionary Armed Forces of Nicaragua (FARN)",1981-12-20,1983-03-24,5
-"Revolutionary Front for an Independent East Timor (FRETILIN)",1989-01-01,1997-09-18,5
-"Shiite Muslims",1979-09-14,1996-09-10,5
-"Shura Council of Benghazi Revolutionaries",2014-09-09,2015-06-22,5
-"Southern Yemen Separatists",2010-02-19,2014-01-17,5
-"The Order (Silent Brotherhood)",1983-10-28,1984-07-19,5
-"United Nicaraguan Opposition",1986-07-04,1986-07-05,5
-"Abdullah Azzam Brigades",2005-08-19,2014-04-18,4
-"Ahlu-sunah Wal-jamea (Somalia)",2008-12-23,2015-07-19,4
-"Al-Fatah",1988-03-26,1992-07-07,4
-"Al-Mansoorian",2002-08-06,2005-07-29,4
-"Ansar al-Islam",2008-02-01,2014-01-27,4
-"Ansar al-Sharia (Tunisia)",2013-07-29,2013-10-23,4
-"Arab Democratic Party",1987-09-08,1987-09-08,4
-"Awami League",1991-12-06,2015-02-19,4
-"Azawad National Liberation Movement (MNLA)",2013-09-29,2015-05-11,4
-"Black Muslims",1973-09-18,1974-12-29,4
-"Communist Party of Nepal- Maoist (CPN-M)",2001-11-23,2008-04-05,4
-"Dissident Republicans",2013-12-17,2015-08-14,4
-"Donskoy Army",2014-10-14,2014-10-14,4
-"Informal Anarchist Federation",2005-03-01,2013-09-02,4
-"Irish Republican Extremists",1975-04-03,1987-01-26,4
-"Islamic Salvation Front (FIS)",1991-07-12,1992-09-27,4
-"Jamaat-ul-Ahrar",2014-08-28,2015-01-04,4
-"Jammu and Kashmir Liberation Front",1990-06-29,1994-04-14,4
-"Janjaweed",2004-04-16,2015-07-30,4
-"Karen National Union",1994-07-18,1995-07-12,4
-"Kurdistan Free Life Party",2008-10-18,2013-02-24,4
-"Lorenzo Zelaya Revolutionary Front (LZRF)",1981-09-23,1988-07-17,4
-"Marxists",1985-10-31,1986-01-12,4
-"Mayi Mayi",2008-11-04,2013-10-29,4
-"Modakeke Ethnics",1997-08-20,1997-08-20,4
-"Morazanist Front for the Liberation of Honduras (FMLH)",1983-09-03,1990-03-31,4
-"Muslim Rebels",1992-10-09,2002-12-26,4
-"National Council for Defense of Democracy (NCDD)",1999-10-12,2003-07-17,4
-"National Democratic Alliance Army (NDAA-ESSA)",2015-02-09,2015-02-09,4
-"National Liberation Front (FNL) (Burundi)",2014-02-02,2014-10-05,4
-"National Patriotic Front of Liberia (NPFL)",1991-04-16,1994-06-21,4
-"Palestinian Revolution Forces",1986-06-26,1986-07-24,4
-"People's Liberation Front of India",2010-05-02,2014-03-08,4
-"Popular Movement for the Liberation of Angola",1992-07-12,1992-10-28,4
-"Red Flag (Venezuela)",1982-01-22,1988-10-29,4
-"Revolutionary Patriotic Anti-Fascist Front (FRAP)",1975-05-27,1977-05-02,4
-"Revolutionary People's Struggle (ELA)",1987-09-26,1989-10-22,4
-"Revolutionary Workers' Council (Kakurokyo)",1978-01-27,1978-01-27,4
-"Seleka",2013-11-16,2014-08-04,4
-"Supreme Council for Islamic Revolution in Iraq (SCIRI)",1992-10-09,1997-05-07,4
-"Takfir wal-Hijra (Excommunication and Exodus)",2005-02-02,2013-06-15,4
-"The Northern Alliance (or United Islamic Front for Salvation of Afghanistan – UIFSA)",1999-07-23,1999-07-29,4
-"Tuareg Guerrillas",1991-12-12,2007-05-12,4
-"Tutsi",1991-11-26,2001-07-22,4
-"United Baloch Army (UBA)",2013-06-03,2015-03-01,4
-"Zeliangrong United Front",2011-10-07,2015-03-10,4
-"Abkhazian Separatists",1992-09-19,1997-07-09,3
-"Afghan Mujahideen",1991-07-29,1992-07-30,3
-"Al-Faruo Battalion",1988-10-10,1988-10-18,3
-"Anti-Abortion Activists",1991-04-22,1995-01-18,3
-"Anti-Balaka Militia",2013-12-31,2014-07-30,3
-"Anti-Communist Vigilante Group",1989-09-14,1989-09-14,3
-"Armed Forces of the Chechen Republic of Ichkeria",2001-11-25,2002-07-09,3
-"Azerbaijan Guerrillas",1991-08-13,1992-05-26,3
-"Bodo Militants",1995-10-31,1996-03-11,3
-"Canary Islands Independence Movement",1978-02-08,1978-07-08,3
-"Coordination of Azawad Movements (CMA)",2015-05-02,2015-05-22,3
-"Counter-revolutionaries",1979-12-27,1981-11-24,3
-"Dima Halao Daoga (DHD)",2007-09-26,2008-08-17,3
-"Eritrean Liberation Front",1970-01-11,1978-10-26,3
-"Extremists",1980-09-20,1983-09-23,3
-"Fatah Uprising",1989-02-23,1990-01-05,3
-"Front for the Liberation of Lebanon from Foreigners",1981-09-17,1982-02-27,3
-"Front for the Liberation of the Enclave of Cabinda (FLEC)",1995-03-18,2000-05-24,3
-"Front for the Restoration of Unity and Democracy",1992-01-17,1992-02-24,3
-"Fuerzas Armadas de Liberacion Nacional (FALN)",1979-10-17,1979-12-03,3
-"George Jackson Brigade",1977-05-21,1977-11-02,3
-"Hadramawt Province of the Islamic State",2015-04-30,2015-08-20,3
-"Islamic Courts Union (ICU)",2005-10-17,2008-03-19,3
-"Jaish al-Adl",2013-12-18,2015-04-10,3
-"Jewish Extremists",1982-12-02,1985-11-29,3
-"Kangleipak Communist Party (KCP)",2009-04-03,2011-08-28,3
-"Karen Insurgents",1991-10-23,1994-10-12,3
-"Kharkiv Partisans",2014-11-08,2015-02-22,3
-"Kilafah Islamic Movement",2012-08-08,2015-12-29,3
-"Kurdish Democratic Party-Iran (KDP)",1989-09-30,1990-04-17,3
-"Latin America Anti-Communist Army (LAACA)",1974-12-08,1974-12-08,3
-"Lebanese Liberation Front",1987-04-16,1988-03-24,3
-"Macina Liberation Front (FLM)",2015-08-10,2015-12-09,3
-"Naga People",1990-11-02,1997-10-30,3
-"National Alliance (Chad)",2008-06-14,2008-06-16,3
-"Party for the Liberation of the Hutu People (PALIPEHUTU)",1992-04-08,2002-11-19,3
-"Peasant Self-Defense Group (ACCU)",1996-08-26,1996-10-16,3
-"People's Revolutionary Army (ERP)",2002-05-15,2005-02-28,3
-"Popular Liberation Army (Puerto Rico)",1991-02-02,1991-03-17,3
-"Puerto Rican Nationalists",1970-05-01,1986-03-17,3
-"Right-Wing Extremists",1970-05-28,1984-08-10,3
-"Self-Defense Group of Imghad Tuaregs and Allies (GATIA)",2015-01-28,2015-05-21,3
-"Senki (""Battle Flag"")",1983-07-05,1983-07-05,3
-"Sudan Alliance Forces",1996-04-20,1996-11-14,3
-"Sudan Liberation Movement",2008-11-27,2015-06-16,3
-"Supporters of Ex-President Gamsakhurdial",1992-03-13,1992-07-06,3
-"Symbionese Liberation Army (SLA)",1974-04-15,1975-04-21,3
-"Syrian Social Nationalist Party",1985-04-09,1990-11-25,3
-"Tehrik-e-Nafaz-e-Shariat-e-Mohammadi (TNSM)",2007-11-06,2012-07-01,3
-"Turkish Communist Party/Marxist (TKP-ML)",1996-08-25,2015-08-09,3
-"Turkish People's Liberation Front (TPLF)(THKP-C)",1970-10-02,1980-05-20,3
-"United Self Defense Units of Colombia (AUC)",1999-06-06,2001-10-14,3
-"Weather Underground, Weathermen",1970-01-01,1970-10-08,3
-"Zimbabwe African Nationalist Union (ZANU)",1979-04-01,2013-02-23,3
-"313 Brigade (Syria)",2013-06-28,2013-06-28,2
-"Action Directe",1980-09-19,1984-07-13,2
-"Al-Mua'qi'oon Biddam Brigade (Those who Sign with Blood)",2014-07-14,2015-01-26,2
-"Al-Sa'iqa",1984-05-29,1988-11-06,2
-"Al-Shabaab al-Mu'minin",2005-04-25,2005-05-07,2
-"Al-Shuda Brigade",2003-07-22,2013-09-26,2
-"Albanian National Army (ANA)",2001-08-14,2003-05-17,2
-"Albanians",2000-05-20,2001-07-01,2
-"Alfaro Vive",1985-05-11,1986-11-10,2
-"Algeisk Wolves",1995-04-09,1995-06-08,2
-"Alliance of Patriots for a Free and Sovereign Congo (APCLS)",2014-04-30,2015-09-24,2
-"America Battalion",1986-03-04,1986-05-13,2
-"Americans for a Competent Federal Judicial System",1989-08-21,1989-12-16,2
-"Animal Liberation Front (ALF)",1999-08-12,1999-08-21,2
-"Anti-Government Group",1992-04-15,1995-03-28,2
-"Arab Movement of Azawad (MAA)",2014-12-15,2015-05-18,2
-"Arab Socialist Baath Party",1985-09-04,1985-11-27,2
-"Arabs",1981-01-11,1996-05-13,2
-"Armed Forces for Liberation of East Timor (FALINTIL)",1992-12-09,1995-12-01,2
-"Armed Forces of National Resistance (FARN)",1976-06-28,1979-10-30,2
-"Armenian Guerrillas",1990-08-19,1991-08-15,2
-"Bahujan Samaj Party",1996-10-03,1996-10-03,2
-"Baloch National Liberation Front",2013-12-10,2015-05-29,2
-"Baloch Nationalists",2014-04-04,2015-04-12,2
-"Bandits",2000-09-04,2002-08-25,2
-"Basque Militants",1992-05-31,1992-05-31,2
-"Bedouin tribesmen",2012-05-05,2012-06-15,2
-"Besi Merah Putih Militia",1999-05-10,1999-05-10,2
-"Black Widows",2008-10-30,2009-05-13,2
-"Brelvi Muslims",1997-10-20,1997-10-21,2
-"Catalan Liberation Front (FAC)",1972-03-02,1972-03-19,2
-"Caucasus Emirate",2008-06-23,2009-06-13,2
-"Chicano Radicals",1971-05-04,1971-06-16,2
-"Communist Party of India- Marxist",2012-06-05,2012-06-07,2
-"Communist Party of Nepal- Unified Marxist-Leninist (CPN-UML)",1997-06-09,2008-11-20,2
-"Congolese Democratic Coalition",1998-10-11,1998-10-11,2
-"Convention of Patriots for Justice and Peace",2011-04-10,2013-02-28,2
-"Dacoits",1991-03-17,1991-10-10,2
-"David Yau Yau Militia",2012-08-23,2013-02-08,2
-"Derna Mujahideen Shura Council",2014-12-24,2014-12-28,2
-"Drug-Related Terrorists",1986-08-16,1995-03-13,2
-"Farmers",1997-01-13,1997-01-17,2
-"Force 17",1984-02-25,1987-08-02,2
-"Free Libya Martyrs Brigade",2015-10-13,2015-10-14,2
-"Gono Bahini (GB)",2009-06-28,2009-08-10,2
-"Hadramawt Tribes Alliance",2014-02-07,2015-04-29,2
-"Hezb-e Wahdat-e Islami-yi Afghanistan",1992-06-02,1992-09-18,2
-"Holy Spirit Movement",1988-02-23,1990-05-11,2
-"Ingush Rebels",1992-10-30,1992-10-30,2
-"Insurgents",2011-11-06,2011-11-14,2
-"Iparretarrak (IK)",1989-06-30,1994-03-29,2
-"Iraqi Revolutionary Forces",1992-11-12,1992-11-12,2
-"Islamic Movement of Uzbekistan (IMU)",2000-08-12,2000-08-12,2
-"Israeli Settler",2014-11-12,2015-08-24,2
-"Jamiat-e Islami-yi Afghanistan",1992-01-21,1992-01-22,2
-"Jamiat ul-Mujahedin (JuM)",2002-11-23,2013-03-21,2
-"Janatantrik Terai Mukti Morcha (JTMM)",2006-07-05,2006-07-28,2
-"Jemaah Islamiya (JI)",2000-08-01,2013-04-09,2
-"Jund al-Khilafah (Tunisia)",2015-04-07,2015-04-22,2
-"Jund al-Sham for Tawhid and Jihad",2008-06-12,2015-07-25,2
-"Justice Commandos for the Armenian Genocide",1980-12-17,1982-12-29,2
-"Kach",1988-02-15,1991-03-08,2
-"Kachin Independence Army (KIA)",1988-12-07,1992-04-03,2
-"Karbi Longri North Cachar Liberation Front (KLNLF)",2006-04-10,2006-04-10,2
-"Khalistan Commando Force",1988-03-23,1989-01-12,2
-"Kisan Indian Organization",1986-04-13,1986-08-20,2
-"Ku Klux Klan",1980-02-17,1983-07-28,2
-"Kurdish Rebels",1989-04-22,1989-04-25,2
-"Landless Peasants' Movement (MST)",1997-08-18,1997-08-18,2
-"Left-Wing Extremists",1983-11-01,1999-06-03,2
-"Libya Revolutionaries Operations Room (LROR)",2013-10-10,2014-07-13,2
-"Liwa Ahrar al-Sunna",2014-03-29,2014-04-30,2
-"Loyalist Volunteer Forces (LVF)",1997-12-27,2000-01-10,2
-"M23",2012-11-15,2013-05-20,2
-"Maoist Communist Center (MCC)",1997-09-07,2003-07-03,2
-"Marxist-Leninist Armed Propaganda Unit",1979-05-11,1980-04-16,2
-"Modakeke Ethnic Activists",1997-12-02,1997-12-06,2
-"Mohajir National Movement",1994-04-22,1995-08-02,2
-"Moro Ghuraba",2013-09-27,2015-06-17,2
-"Movement for Democracy and Justice in Chad (MDJT)",1999-07-12,2002-05-27,2
-"Mujahedeen Army",2006-01-19,2014-08-12,2
-"Mujahidin Indonesia Timur (MIT)",2013-09-10,2015-11-29,2
-"Muslim Extremists",1979-09-14,2002-06-09,2
-"Muslim Janbaz Force",1990-06-19,1990-06-19,2
-"Muslims",1981-01-29,1989-01-05,2
-"Ninjas",1999-06-03,1999-06-21,2
-"Palestinian/Lebanese nationalists",1985-01-16,1985-01-16,2
-"Patriotic Ginbot 7 Movement for Unity and Democracy (PGMUD)",2015-12-15,2015-12-17,2
-"Patriotic Morazanista Front (FPM)",1989-04-11,1989-07-13,2
-"Patriotic Union of Kurdistan (PUK)",1995-03-11,1997-11-07,2
-"People's Liberation Organization of Tamil Eelam",1989-11-07,1999-05-15,2
-"People's Revolutionary Party of Kangleipak-Progressive (PREPAK-P)",2015-01-11,2015-01-18,2
-"People Against Gangsterism and Drugs (PAGAD)",1999-04-07,2013-07-24,2
-"Political Activists",1995-04-16,1996-07-02,2
-"Popular Resistance Committees",2007-11-04,2014-05-21,2
-"Popular Revolutionary Bloc (BPR)",1979-09-29,1980-04-17,2
-"pro-iranian terrorists",1984-01-05,1984-01-05,2
-"Real Irish Republican Army (RIRA)",2000-11-27,2011-06-09,2
-"Rebels",2009-07-29,2011-11-03,2
-"Recompras",1992-01-08,1992-01-28,2
-"Revolutionary Movement for National Salvation (REMNASA)",2015-01-27,2015-05-28,2
-"Right Wing Christian extremists",1978-11-24,1978-11-24,2
-"Rival caste",1996-04-07,1996-04-07,2
-"Rwanda Patriotic Front (RPF)",1992-03-12,1994-10-24,2
-"Sanaa Province of the Islamic State",2015-06-29,2015-07-07,2
-"Secessionists",1982-02-19,2012-12-04,2
-"Shura Council of Mujahideen in Derna",2015-06-28,2015-06-29,2
-"South Sudan Democratic Army",2012-04-27,2015-02-16,2
-"Spanish Armed Group",1980-01-13,1980-01-16,2
-"Spanish National Action",1979-08-02,1979-09-14,2
-"Special Purpose Islamic Regiment (SPIR)",2001-04-09,2002-02-06,2
-"Subversives",1981-07-16,1987-01-19,2
-"Sudanese People's Liberation Forces",1988-02-18,1989-04-18,2
-"Sunni Muslims",1982-12-17,1996-09-12,2
-"Tamil Eelam Liberation Organization (TELO)",1986-03-11,1989-11-25,2
-"The Front for the Liberation of the Cabinda Enclave – Renewed (FLEC)",1999-03-10,2002-01-31,2
-"Togolese Dissidents",1994-01-05,1994-10-06,2
-"Tribal Group",1995-02-19,1995-03-02,2
-"Tripoli Martyrs Battalion",1989-01-09,1989-01-09,2
-"United Somali Congress",1990-07-28,1990-12-16,2
-"Vigilante Group",1989-10-03,1989-12-09,2
-"Yemenis",2001-01-15,2001-01-17,2
-"Youths",1994-07-17,2002-10-04,2
-"14 March Coalition",2008-07-09,2008-07-09,1
-"19th of July Christian Resistance Brigade",1981-06-25,1981-06-25,1
-"2 April Group",1983-03-15,1983-03-15,1
-"20 December Movement (M-20)",1992-06-08,1992-06-08,1
-"28s",2000-01-12,2000-01-12,1
-"Abida Tribe",2005-11-21,2005-11-21,1
-"Abkhazian guerrillas",1992-12-28,1992-12-28,1
-"Abu Jaafar al-Mansur Brigades",2014-01-05,2014-01-05,1
-"Abu Musa Group",1987-05-15,1987-05-15,1
-"Achik National Volunteer Council-B (ANVC-B)",2013-11-08,2013-11-08,1
-"Achik Songna An'pachakgipa Kotok (ASAK)",2015-08-01,2015-08-01,1
-"Active Espirit de Corps of the Argentina Army",1987-03-21,1987-03-21,1
-"Adan Abyan Islamic Army (AAIA)",1999-08-28,1999-08-28,1
-"Afghan Merceneries",1995-02-21,1995-02-21,1
-"Afghan Rebels",1988-03-27,1988-03-27,1
-"Ahmad Jibril",1978-08-13,1978-08-13,1
-"Aibed Er-Rahman katibet",2006-07-04,2006-07-04,1
-"Akhilesh Singh Gang",2000-10-01,2000-10-01,1
-"Al-Fatihin Army (AFA)",2008-01-01,2008-01-01,1
-"Al-Herak Al-Tihami Movement",2013-03-09,2013-03-09,1
-"Al-Islah Party",2014-09-16,2014-09-16,1
-"Al-Khobar",2012-02-06,2012-02-06,1
-"Al-Nasirin (India)",2002-12-12,2002-12-12,1
-"Al-Qaqa Brigade",2014-02-06,2014-02-06,1
-"Al-Zintan Revolutionaries' Military Council",2014-10-11,2014-10-11,1
-"Al-Zulfikar",1992-05-09,1992-05-09,1
-"Albatros Commando",1994-08-16,1994-08-16,1
-"Algeria Province of the Islamic State",2015-12-18,2015-12-18,1
-"All-Party Students Union",1995-04-10,1995-04-10,1
-"American Servicemen's Union (ASU)",1970-07-26,1970-07-26,1
-"Amr Bil Maroof Wa Nahi Anil Munkir",2010-12-26,2010-12-26,1
-"Anarchio Scene",1984-08-01,1984-08-01,1
-"Anarchists",1996-03-07,1996-03-07,1
-"Anbar Salvation Council",2007-06-02,2007-06-02,1
-"Andres Castro United Front",2000-03-16,2000-03-16,1
-"Angolan Defense Force",1985-06-29,1985-06-29,1
-"Animal Rights Activists",2000-08-20,2000-08-20,1
-"Anonymous Underground Movement (MCA)",2004-09-12,2004-09-12,1
-"Ansar Al-Khilafa (Philippines)",2015-11-26,2015-11-26,1
-"Ansar al-Sunna",2004-12-21,2004-12-21,1
-"Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan)",2013-01-19,2013-01-19,1
-"Anti-AF",1981-03-30,1981-03-30,1
-"Anti-Authority Group (Greece)",1990-02-13,1990-02-13,1
-"Anti-Communist Patriotic Front",1980-07-23,1980-07-23,1
-"Anti-Communist Viets Organization",1981-07-21,1981-07-21,1
-"Anti-Environmentalist",1998-06-27,1998-06-27,1
-"Anti-Government Demonstrators",1991-10-24,1991-10-24,1
-"Anti-Immigrant Activists",1981-01-28,1981-01-28,1
-"Anti-Terrorism ETA (ATE)",1975-11-18,1975-11-18,1
-"Anti-U.S. radicals",1991-12-08,1991-12-08,1
-"Anti Somoza Gp, name unk",1982-05-14,1982-05-14,1
-"April 6th Liberation Movement",1980-08-30,1980-08-30,1
-"Arab Liberation Front (ALF)",1979-08-05,1979-08-05,1
-"Arab Separatists",1980-04-29,1980-04-29,1
-"Arakan Liberation Party (ALP)",2015-10-18,2015-10-18,1
-"Arakan Rohingy Islamic Front",1991-11-10,1991-11-10,1
-"Argentine Anticommunist Alliance (AAA)",1976-08-20,1976-08-20,1
-"Argentine Liberation Front (FAL)",1970-04-05,1970-04-05,1
-"Ariska Brodraskapet (Aryan Brotherhood)",1999-06-28,1999-06-28,1
-"Armed Commandos of Liberation",1970-01-09,1970-01-09,1
-"Armed Forces for a Federal Republic (FARF)",1995-07-21,1995-07-21,1
-"Armed People",1995-03-12,1995-03-12,1
-"Armed Struggle for Communism",1977-02-10,1977-02-10,1
-"Armed Struggle Organization",1983-01-16,1983-01-16,1
-"Armed Subversives",1979-07-27,1979-07-27,1
-"Armenian Extremists",1990-08-20,1990-08-20,1
-"Armenian Group",1990-04-12,1990-04-12,1
-"Armenian militants",1992-03-09,1992-03-09,1
-"Armenian paramilitary group",1990-08-22,1990-08-22,1
-"Army of God",1998-10-23,1998-10-23,1
-"Army of the Republic of Ilirida",2002-08-12,2002-08-12,1
-"Army of the Tribes",2015-10-27,2015-10-27,1
-"Aryan Nation",1999-08-10,1999-08-10,1
-"Aum Shinri Kyo",1990-04-15,1990-04-15,1
-"Autonomous Anarchist Groups",1979-10-24,1979-10-24,1
-"Autonomous Decorators",2000-01-02,2000-01-02,1
-"Ayesha bint al-Sadiq Brigade",2013-10-17,2013-10-17,1
-"Azadejan (Liberation)",1981-08-13,1981-08-13,1
-"Babbar Khalsa International (BKI)",1992-08-03,1992-08-03,1
-"Baloch Republican Guards (BRG)",2014-09-16,2014-09-16,1
-"Baloch Waja Liberation Army (BWLA)",2014-03-06,2014-03-06,1
-"Baloch Young Tigers (BYT)",2015-11-17,2015-11-17,1
-"Bangladesh Communist Party",1991-07-07,1991-07-07,1
-"Bangladesh Sarbahara Party",1992-12-18,1992-12-18,1
-"Basque Separatists",1987-01-26,1987-01-26,1
-"BAY Bombers",1971-02-04,1971-02-04,1
-"Bedouin Movement (Sudan)",2013-01-21,2013-01-21,1
-"Begumcans Cell",1978-01-25,1978-01-25,1
-"Beja Congress",1996-10-03,1996-10-03,1
-"Black African Vigilantes",1994-10-24,1994-10-24,1
-"Black Afro Militant Movement",1971-02-20,1971-02-20,1
-"Black Forest Command",1989-09-09,1989-09-09,1
-"Black Hand",1983-12-21,1983-12-21,1
-"Black Liberation Force",1983-11-01,1983-11-01,1
-"Bodo Liberation Tigers (BLT)",2003-01-28,2003-01-28,1
-"Cambodian Freedom Fighters (CFF)",2000-11-24,2000-11-24,1
-"Cambodian People's Party (CPP)",1997-02-07,1997-02-07,1
-"Carlos Echeverria commando group",1981-03-17,1981-03-17,1
-"Chakma tribal group",2001-02-16,2001-02-16,1
-"Che Guevara Brigade",1977-09-11,1977-09-11,1
-"Chicano Liberation Front",1971-05-09,1971-05-09,1
-"Chukakuha (Middle Core Faction)",1986-04-15,1986-04-15,1
-"Citizens Volunteer Force",1989-11-21,1989-11-21,1
-"Coca Farmers",1997-04-17,1997-04-17,1
-"Colonel Karuna Faction",2006-04-10,2006-04-10,1
-"Combat 18",1999-04-17,1999-04-17,1
-"Commandos",1980-06-02,1980-06-02,1
-"Committee for a National Drive for Peace and Democracy",1992-08-17,1992-08-17,1
-"Committee of Solidarity with Arab and Middle East Political Prisoners (CSPPA)",1986-06-07,1986-06-07,1
-"Communist Fighting Nuclei",1977-07-08,1977-07-08,1
-"Communist Fighting Unit",1978-01-01,1978-01-01,1
-"Communist Party of India- Marxist-Leninist",1999-09-25,1999-09-25,1
-"Communist Party of Thailand",1979-02-15,1979-02-15,1
-"Concerned citizens",1995-01-29,1995-01-29,1
-"Continuing Struggle",1989-12-21,1989-12-21,1
-"Continuity Irish Republican Army (CIRA)",2001-10-29,2001-10-29,1
-"Core Conspirators for the Extension of Chaos (Núcleo de Conspiradores por la Extensión de Kaos)",2011-12-21,2011-12-21,1
-"Coup Plotters Against the Government",1991-10-13,1991-10-13,1
-"Croatian Nationalists",1976-06-16,1976-06-16,1
-"Cuban Exiles",1976-05-16,1976-05-16,1
-"Cuncolta Naziunalista",1995-08-31,1995-08-31,1
-"Cyrenaica Self-Defense Force",2014-03-22,2014-03-22,1
-"Death Squad",1987-06-24,1987-06-24,1
-"Death to Drug Traffickers",1988-01-13,1988-01-13,1
-"Democratic Movement for the Liberation of the Eritrean Kunamas (DMLEK)",2007-11-05,2007-11-05,1
-"Democratic Revolutionary Front (FDR)",1980-09-21,1980-09-21,1
-"Democratic Revolutionary Party",1995-07-14,1995-07-14,1
-"Depositers angered",1994-10-06,1994-10-06,1
-"Devrimici Halk Kurtulus Cephesi (DHKP/C)",1997-07-14,1997-07-14,1
-"Dominican Popular Movement (MPD)",1970-03-24,1970-03-24,1
-"East Turkistan Liberation Organization",1999-10-05,1999-10-05,1
-"Ejercito Revolucionario Guevarista (Guevarist Revolutionary Army)",2000-07-27,2000-07-27,1
-"El-Feth katibat",2006-10-08,2006-10-08,1
-"Enraged Revolutionaries",2003-03-16,2003-03-16,1
-"Enyele Militia",2014-07-22,2014-07-22,1
-"Ethiopian People's Revolutionary Party",1992-04-04,1992-04-04,1
-"Evan Mecham Eco-Terrorist International Conspiracy (EMETIC)",1989-05-30,1989-05-30,1
-"Extreme Left",1981-11-19,1981-11-19,1
-"Fanmi Lavalas",2002-05-07,2002-05-07,1
-"Fatah al-Islam",2008-05-31,2008-05-31,1
-"Federation of Students and Scholars of Cote d'Ivoire (FESCI)",2000-09-29,2000-09-29,1
-"Forces of the Free Arab",1989-02-23,1989-02-23,1
-"former ""comrades-in-arms""",1986-01-11,1986-01-11,1
-"Former Soldiers/Police",1995-02-14,1995-02-14,1
-"Former Student Hostel",1995-10-25,1995-10-25,1
-"Fred Hampton Unit of the People's Forces",1976-07-02,1976-07-02,1
-"Free All Political Prisoners in Holland",1992-02-02,1992-02-02,1
-"Free and Democratic Society of Eastern Kurdistan (KODAR)",2015-08-07,2015-08-07,1
-"French Armed Islamic Front",2004-10-08,2004-10-08,1
-"Fronte Paesanu Corsu di Liberazione (FPCL)",1975-07-30,1975-07-30,1
-"Ganda Koi",1994-07-30,1994-07-30,1
-"Gang",1996-11-24,1996-11-24,1
-"Georgian Militants",2001-07-22,2001-07-22,1
-"God's Army",2000-12-31,2000-12-31,1
-"God our Father Cult",1990-03-23,1990-03-23,1
-"Grozny Jamaat",2002-04-18,2002-04-18,1
-"Guadalcanal Liberation Front (GLF)",2002-08-22,2002-08-22,1
-"Guatemalan Labor Party (PGT)",1979-05-01,1979-05-01,1
-"Gugama Youth Federation",2006-05-11,2006-05-11,1
-"Gulf Cartel",2008-09-15,2008-09-15,1
-"Gun runners",1996-05-09,1996-05-09,1
-"Gurkha National Liberation Front (GNLF)",1988-02-22,1988-02-22,1
-"Hafiz Gul Bahadur Group",2014-11-15,2014-11-15,1
-"Hamawand Tribe",1992-05-05,1992-05-05,1
-"Hamza Combat Group against Atheism and Heresy",2014-07-20,2014-07-20,1
-"Hatikvah Leumi or National Hope",1980-12-10,1980-12-10,1
-"Hezbollah Palestine",1992-08-04,1992-08-04,1
-"Human Rights Renewal Movement (Renovacion por los Derechos Humanos)",1999-06-26,1999-06-26,1
-"Ijaw militants",2005-06-15,2005-06-15,1
-"Independence Advocates",1984-11-17,1984-11-17,1
-"Iranian dissident group",1986-12-29,1986-12-29,1
-"Iraq's Jihadist Leagues",2008-03-18,2008-03-18,1
-"Iraqis",1982-01-09,1982-01-09,1
-"Islamic Army in Iraq (al-Jaish al-Islami fi al-Iraq)",2005-04-21,2005-04-21,1
-"Islamic Fateh",2003-01-20,2003-01-20,1
-"Islamic Movement (Nigeria)",2015-12-12,2015-12-12,1
-"Islamic Mujahidin",1992-05-06,1992-05-06,1
-"Islamic Revival Movement",1995-09-28,1995-09-28,1
-"Islamic State of Iraq (ISI)",2007-09-23,2007-09-23,1
-"Islamic Tendency",2006-07-04,2006-07-04,1
-"Israeli Extremists",2015-10-13,2015-10-13,1
-"Itsekiri",2004-04-22,2004-04-22,1
-"Jaish al-Fatah (Syria)",2015-10-19,2015-10-19,1
-"Jaish Tahkim al-Din",2014-04-29,2014-04-29,1
-"Jaljala Army",2012-08-05,2012-08-05,1
-"Janatantrik Terai Madhesh Mukti Morcha (JTMMM)",2011-09-05,2011-09-05,1
-"Janatantrik Terai Mukti Morcha- Rajan Mukti (JTMM-R)",2008-10-13,2008-10-13,1
-"Japanese Red Army (JRA)",1988-04-14,1988-04-14,1
-"Jarrai",1999-04-30,1999-04-30,1
-"Jaysh al-Islam (Syria)",2015-03-22,2015-03-22,1
-"Jharkhand Liberation Tigers (JLT)",2011-01-30,2011-01-30,1
-"Jihad Brigades",1987-04-27,1987-04-27,1
-"Joint Meeting Parties (JMP)",2011-07-03,2011-07-03,1
-"Jundallah",2012-11-18,2012-11-18,1
-"Justice and Equality Movement (JEM)",2012-11-09,2012-11-09,1
-"Kachin Insurgents",1989-03-04,1989-03-04,1
-"Kaingang Indians",1996-07-16,1996-07-16,1
-"Kaitseliit Paramiltary Group",1992-07-14,1992-07-14,1
-"Kamal Udwan Unit of Palestinians",1981-07-14,1981-07-14,1
-"Kampuchean Peoples National Liberation Army",1989-03-25,1989-03-25,1
-"Kanglei Yawol Kanna Lup (KYKL)",2003-02-10,2003-02-10,1
-"Karbi People's Liberation Tigers (KPLT)",2011-08-14,2011-08-14,1
-"Kashmiri Hezbollah",1992-04-09,1992-04-09,1
-"Kenya African National Union (KANU)",1995-08-10,1995-08-10,1
-"Khalid ibn Walid",1985-06-14,1985-06-14,1
-"Khmer Bandits",1992-08-18,1992-08-18,1
-"Khmer Serei Guerrillas",1980-03-27,1980-03-27,1
-"Khristos Kasimis",1985-09-14,1985-09-14,1
-"Kisii Activists",1997-12-19,1997-12-19,1
-"Knights Templar (Caballeros Templarios)",2012-05-31,2012-05-31,1
-"Kuki Revolutionary Army (KRA)",2002-05-27,2002-05-27,1
-"Kuki tribesmen",1997-10-29,1997-10-29,1
-"Kurdistan Freedom Hawks (TAK)",2012-08-09,2012-08-09,1
-"Lashkar-e-Jhangvi",2015-12-01,2015-12-01,1
-"Lebanese Arab Army",1982-04-18,1982-04-18,1
-"Lebanese Resistance Group",1983-08-05,1983-08-05,1
-"Lesotho Liberation Army (LLA)",1983-07-06,1983-07-06,1
-"Liberation Battalion",1987-11-17,1987-11-17,1
-"Liberation Hawks",1987-03-29,1987-03-29,1
-"Liberation War Veterans Association",2001-03-01,2001-03-01,1
-"Libya Shield Force",2014-11-11,2014-11-11,1
-"Lithuanian Land Guard",1992-05-15,1992-05-15,1
-"Liwa al-Islam",2013-02-21,2013-02-21,1
-"Liwa al-Sham",2013-07-01,2013-07-01,1
-"Local Residents",1992-06-24,1992-06-24,1
-"Madhesi People’s Rights Forum (MPRF)",2011-04-18,2011-04-18,1
-"Mahaz-e-Milli Islami Afghanistan",1991-09-23,1991-09-23,1
-"Mahidi",1999-07-15,1999-07-15,1
-"Mahsud Tribe",2005-03-01,2005-03-01,1
-"Mai Mai Bakata Katanga Militia",2014-10-04,2014-10-04,1
-"Mai Mai Simba Militia",2012-05-04,2012-05-04,1
-"Majlis-e-Askari",2015-10-27,2015-10-27,1
-"Major Muhammad Zuhnyn Group",1986-06-28,1986-06-28,1
-"Makhachkala Gang",2013-09-03,2013-09-03,1
-"Malaysian Communist Party",1988-02-22,1988-02-22,1
-"Mandela Soccer Club",1989-02-23,1989-02-23,1
-"Manipur Naga People's Army (MNPA)",2014-01-04,2014-01-04,1
-"Manuel Jose Arce Commando",1988-10-19,1988-10-19,1
-"Marhan Clan",2001-01-28,2001-01-28,1
-"Martyr Ahmad Alishuay B Group",1989-03-16,1989-03-16,1
-"Martyr Riyad Taha Group",1989-10-19,1989-10-19,1
-"Marwan Al-Qawasimi and Amir Abu-Ayshah Group",2015-01-14,2015-01-14,1
-"Mawlawi and Mansour Group",2014-10-24,2014-10-24,1
-"Militant Welsh",1981-10-26,1981-10-26,1
-"Militia Members",2003-05-01,2003-05-01,1
-"Miscreants",2011-11-06,2011-11-06,1
-"Miskito Indian Organization",1986-03-22,1986-03-22,1
-"Misrata Brigades",2014-12-17,2014-12-17,1
-"Misseriya Arab Tribesmen",2015-03-02,2015-03-02,1
-"MLA",1984-04-10,1984-04-10,1
-"Mombasa Republican Council (MRC)",2014-11-02,2014-11-02,1
-"Movement for Democratic Change (MDC)",2002-06-08,2002-06-08,1
-"Movement for Rebuilding Fatah",1983-08-20,1983-08-20,1
-"Movement for Self-Determination",1995-08-31,1995-08-31,1
-"Movement of Niger People for Justice (MNJ)",2007-08-21,2007-08-21,1
-"Movement of the Revolutionary Left (MIR) (Chile)",1981-10-16,1981-10-16,1
-"Mozambique Liberation Front (FRELIMO)",1992-04-03,1992-04-03,1
-"Mujahedeen Shura Council",2005-04-30,2005-04-30,1
-"Munadil al-Jumalyi Brigade",2008-03-17,2008-03-17,1
-"Naga National Council (NNC)",2011-06-04,2011-06-04,1
-"National Council of Maubere Resistance",1996-01-09,1996-01-09,1
-"National Democratic Alliance of Sudan",1999-03-31,1999-03-31,1
-"National Democratic Front-Bicol (NDF-Bicol)",2014-11-14,2014-11-14,1
-"National Front for the Salvation of Libya",1984-05-13,1984-05-13,1
-"National Liberation Army (NLA) (Macedonia)",2001-11-28,2001-11-28,1
-"National Liberation Army (Peru)",1989-02-06,1989-02-06,1
-"National Movement of Iranian Resistance",1984-09-30,1984-09-30,1
-"National Organization of Cypriot Fighters (EOKA)",1980-04-01,1980-04-01,1
-"National Resistance Movement (NRM)",1985-06-23,1985-06-23,1
-"Nationalist Integrationist Front (FNI)",2005-06-02,2005-06-02,1
-"Naxalites",1982-06-04,1982-06-04,1
-"Neo-Fascists",1981-02-05,1981-02-05,1
-"Nepali Congress Party (NC)",1997-06-10,1997-06-10,1
-"Nestor Paz Zamora Commission (CNPZ)",1990-10-11,1990-10-11,1
-"New Partisans Movement",1977-01-11,1977-01-11,1
-"New World Liberation Front (NWLF)",1975-02-04,1975-02-04,1
-"New Year's Gang",1970-08-24,1970-08-24,1
-"Nicaraguan  Revolutionary Armed Force",1984-04-01,1984-04-01,1
-"Nicaraguan Counter Revolutionaries (group unk)",1981-10-16,1981-10-16,1
-"Northern Terror Front",1986-01-29,1986-01-29,1
-"Nyatura Militia",2015-12-30,2015-12-30,1
-"Ogaden National Liberation Front (ONLF)",2008-06-29,2008-06-29,1
-"Okinawa Liberation League",1975-07-23,1975-07-23,1
-"Ombatse Cult",2013-09-17,2013-09-17,1
-"Omega-7",1979-11-25,1979-11-25,1
-"Opposition Militants",1996-04-09,1996-04-09,1
-"Organization of Volunteers for the Puerto Rican Revolution",1985-11-06,1985-11-06,1
-"Organized Proletarian Communists",1977-10-03,1977-10-03,1
-"Pakistani People's Party (PPP)",1990-03-14,1990-03-14,1
-"Palestine Liberation Front (PLF)",1979-07-08,1979-07-08,1
-"Palestinian Forces",1986-03-04,1986-03-04,1
-"Panthic Committee",1991-02-12,1991-02-12,1
-"Parbatya Chattagram Jana Sanghati Samity (PCJSS) - Bangladesh",2009-09-02,2009-09-02,1
-"Patriotic Liberation Front (FPL)",1979-10-18,1979-10-18,1
-"Patriotic Resistance Front in Ituri (FRPI)",2015-03-21,2015-03-21,1
-"Peasant protesters",1996-08-02,1996-08-02,1
-"People's Amn Committee",2013-06-05,2013-06-05,1
-"People's Democratic Party (PDP)",2014-08-08,2014-08-08,1
-"People's Fatherland Movement",1992-03-29,1992-03-29,1
-"People's Revolutionary Army (ERP) (El Salvador)",1979-02-01,1979-02-01,1
-"People's Revolutionary Party of Kangleipak (PREPAK)",2012-01-16,2012-01-16,1
-"People's Sovereignty Party (PDR)",1999-05-28,1999-05-28,1
-"Plowshares",1983-12-04,1983-12-04,1
-"Popular Anti-Communist Militias",1980-07-22,1980-07-22,1
-"Popular Forces of April 25",1986-05-17,1986-05-17,1
-"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC)",1987-11-25,1987-11-25,1
-"Popular Front for the Liberation of the Sahara",1994-05-16,1994-05-16,1
-"Popular Movement for the Liberation of Cabinda",1979-08-01,1979-08-01,1
-"Popular Resistance Army (PRA)",1981-04-22,1981-04-22,1
-"Popular Resistance Front (FPR)",1989-01-23,1989-01-23,1
-"Popular Resistance Sabotage Group",1974-06-02,1974-06-02,1
-"PORE",1977-12-23,1977-12-23,1
-"Pro-Libyan",1986-12-03,1986-12-03,1
-"Pro Hartal Activists",2015-02-26,2015-02-26,1
-"Qaddaffis",1981-07-17,1981-07-17,1
-"Quartermoon Society",1970-10-08,1970-10-08,1
-"Rafallah al-Sahati Brigade",2014-06-25,2014-06-25,1
-"Rashtriya Swayamsevak Sangh",2013-04-06,2013-04-06,1
-"Rebel Military Unit",2000-11-02,2000-11-02,1
-"Red Army for the Liberation of Catalonia",1987-12-26,1987-12-26,1
-"Red Cell",1976-06-01,1976-06-01,1
-"Red Hand Commandos",1995-09-28,1995-09-28,1
-"Red Hand Defenders (RHD)",1999-06-05,1999-06-05,1
-"Reform of the Armed Forces Movement",1990-12-21,1990-12-21,1
-"Resistance, Liberation and Independence Organization (AAA)",1972-12-07,1972-12-07,1
-"Revolutionary Armed Forces- Argentina (FAR-A)",1971-04-29,1971-04-29,1
-"Revolutionary Armed Forces (FAR)",1983-12-14,1983-12-14,1
-"Revolutionary Army",2015-04-28,2015-04-28,1
-"Revolutionary Commandos of Solidarity",1977-04-11,1977-04-11,1
-"Revolutionary Communist Youth Brigade (RCYB)",1981-02-09,1981-02-09,1
-"Revolutionary Eelam Organization (EROS)",1988-04-18,1988-04-18,1
-"Revolutionary Front",2012-02-26,2012-02-26,1
-"Revolutionary Punishment Movement",2015-08-29,2015-08-29,1
-"Revolutionary United Front Movement",1989-02-18,1989-02-18,1
-"Right-Wing Group",1985-09-25,1985-09-25,1
-"Rival Bangledesh Chhatra League Faction",1995-06-28,1995-06-28,1
-"Rival clan",1997-08-23,1997-08-23,1
-"Rival Party Members",1994-11-15,1994-11-15,1
-"Rival peasant band",1996-01-31,1996-01-31,1
-"Rival Soccer Clubs",1994-11-20,1994-11-20,1
-"Rival Zulu Group, name not stated",1994-02-20,1994-02-20,1
-"Rohingya Solidarity Organization",2012-11-05,2012-11-05,1
-"ROSADO-SOTO Command",1979-02-10,1979-02-10,1
-"Rwenzururu Rebels",1990-03-04,1990-03-04,1
-"Saharan Revolutionary Armed Front (FARS)",1997-09-20,1997-09-20,1
-"Saif-ul-Muslimeen",2003-03-29,2003-03-29,1
-"Salafi Daawa Group",2004-11-28,2004-11-28,1
-"Sandinistas",1983-03-26,1983-03-26,1
-"Sanghiya Limbuwan Committee (SLC)",2011-05-11,2011-05-11,1
-"Saudi Hezbollah",1996-06-25,1996-06-25,1
-"Save Kashmir Movement",2002-12-20,2002-12-20,1
-"Scottish National Liberation Army",1983-12-10,1983-12-10,1
-"Scottish Socialist Republican League",1981-01-08,1981-01-08,1
-"Secret Organization Zero",1974-04-13,1974-04-13,1
-"Self Defense Forces",1996-07-23,1996-07-23,1
-"September 11 Commandos",1990-09-04,1990-09-04,1
-"Serbian guerrillas",1992-03-09,1992-03-09,1
-"Servants of Islam Organization",1992-07-19,1992-07-19,1
-"Shabelle Valley militia",2012-01-02,2012-01-02,1
-"Shabwah Province of the Islamic State",2015-04-14,2015-04-14,1
-"Shan State Army - North (SSA-N)",2015-11-09,2015-11-09,1
-"Shaykh Hassan Khalid Forces",1989-06-22,1989-06-22,1
-"Sipah-e-Sahaba/Pakistan (SSP)",1994-12-13,1994-12-13,1
-"Skinheads",2006-04-13,2006-04-13,1
-"Somali National Alliance",1992-09-23,1992-09-23,1
-"Somali National Movement",1989-09-02,1989-09-02,1
-"Somozists",1980-12-21,1980-12-21,1
-"South Sudan Armed Forces (SSAF)",2015-12-05,2015-12-05,1
-"Strikers",1970-02-09,1970-02-09,1
-"Students",1992-06-18,1992-06-18,1
-"Students Islamic Movement of India (SIMI)",2014-12-06,2014-12-06,1
-"Sudan Liberation Army-Minni Minawi (SLA-MM)",2012-04-18,2012-04-18,1
-"Sudan Revolutionary Front (SRF)",2013-05-31,2013-05-31,1
-"Sudanese Rebels",2012-04-24,2012-04-24,1
-"Supporters of Joshua Nkomo",1982-08-05,1982-08-05,1
-"Sword of Islam",1999-02-09,1999-02-09,1
-"Syrian Army deserters",2012-01-30,2012-01-30,1
-"Syrian Mujahideen",2013-06-16,2013-06-16,1
-"Ta'ang National Liberation Army (TNLA)",2014-12-10,2014-12-10,1
-"Tajamo Ansar al-Islam",2012-09-26,2012-09-26,1
-"Tanyus Shanin Armed Unit",1987-10-29,1987-10-29,1
-"Tanzeem Ittehad - I - Ulema Qabail (Tiuq)Tribesmen",1995-08-12,1995-08-12,1
-"Tayeb Al-Afghani's Islamist Group",1991-12-07,1991-12-07,1
-"Tehrik-e-Khilafat",2014-02-14,2014-02-14,1
-"Tehrik al-Mojahedin",2015-10-14,2015-10-14,1
-"Tepi Youth",2015-10-28,2015-10-28,1
-"Terai Army",2008-05-14,2008-05-14,1
-"Terra Lliure",1982-08-21,1982-08-21,1
-"Terrorists",1981-09-07,1981-09-07,1
-"The Extraditables",1989-09-05,1989-09-05,1
-"The New Irish Republican Army",2015-05-31,2015-05-31,1
-"The Order II (Bruder Schweigen Strike Force II)",1986-03-06,1986-03-06,1
-"Tribal guerrillas",1997-04-30,1997-04-30,1
-"Tripura National Volunteers (TNV)",1984-02-01,1984-02-01,1
-"Tritiya Prastuti Committee (India)",2010-02-10,2010-02-10,1
-"Tulawie Clan",1995-05-08,1995-05-08,1
-"Tupamaros (Uruguay)",1970-05-29,1970-05-29,1
-"Turkish Islamic Jihad",1991-10-28,1991-10-28,1
-"Uganda Freedom Movement (UFM)",1981-05-10,1981-05-10,1
-"Uganda People's Army",1988-09-17,1988-09-17,1
-"Uighur Separatists",2005-01-20,2005-01-20,1
-"Ukrainian Nationalist Group",2014-10-20,2014-10-20,1
-"Union of Congolese Patriots (UPC)",2012-06-05,2012-06-05,1
-"Union of Revolutionary Communists in Turkey (TIKB)",1999-09-28,1999-09-28,1
-"United Democratic Liberation Army (UDLA)",2011-09-05,2011-09-05,1
-"United Front for Democracy Against Dictatorship",2014-04-01,2014-04-01,1
-"United Kuki Liberation Front (UKLF) - India",2010-11-24,2010-11-24,1
-"United Liberation Movement for Democracy in Liberia (ULIMO)",1992-03-29,1992-03-29,1
-"United Nasirite Organizaiton",1986-08-04,1986-08-04,1
-"United National Liberation Front of WESEA (UNLFW)",2015-05-03,2015-05-03,1
-"United Popular Action Movement",1992-08-05,1992-08-05,1
-"United Students Forum",1994-07-26,1994-07-26,1
-"Vietnamese",1997-03-04,1997-03-04,1
-"Villagers",1995-05-22,1995-05-22,1
-"Vishwa Hindu Parishad (VHP)",2001-08-06,2001-08-06,1
-"Welsh Extremists",1970-09-20,1970-09-20,1
-"West Indonesia Mujahideen",2015-03-23,2015-03-23,1
-"White Mercenaries",1989-12-04,1989-12-04,1
-"White Wolves (UK)",1999-04-30,1999-04-30,1
-"Wolves of Islam",1998-10-03,1998-10-03,1
-"Youth of the Land of Egypt",2014-11-12,2014-11-12,1
-"Zapatista National Liberation Army",1994-01-01,1994-01-01,1
-"Zetas",2012-06-13,2012-06-13,1
-"Zimbabwe Guerrillas",1978-09-07,1978-09-07,1
-"Zionist Resistance Fighters",1999-11-22,1999-11-22,1
-"Zomi Revolutionary Army (ZRA)",2014-03-29,2014-03-29,1
-NA,NA,NA,1
+"Group","Start","End","Incidents","Duration"
+"Farabundo Marti National Liberation Front (FMLN) | 1222",1980-01-04,1992-10-27,1222,4680
+"Irish Republican Army (IRA) | 0783",1971-02-06,2003-11-24,783,11979
+"Al-Shabaab | 0767",2007-11-02,2015-12-29,767,2979
+"Taliban | 0740",2001-09-26,2015-12-25,740,5203
+"New People's Army (NPA) | 0733",1970-01-31,2015-12-23,733,16762
+"Nicaraguan Democratic Force (FDN) | 0578",1983-03-15,1987-06-19,578,1557
+"Liberation Tigers of Tamil Eelam (LTTE) | 0519",1985-06-12,2009-05-15,519,8738
+"Kurdistan Workers' Party (PKK) | 0502",1984-08-15,2015-12-31,502,11460
+"Islamic State of Iraq and the Levant (ISIL) | 0452",2013-05-16,2015-12-29,452,957
+"Revolutionary Armed Forces of Colombia (FARC) | 0435",1977-09-19,2015-11-25,435,13946
+"Shining Path (SL) | 0413",1980-07-28,2015-08-05,413,12791
+"Donetsk People's Republic | 0375",2014-04-16,2015-12-04,375,597
+"Al-Qaida in the Arabian Peninsula (AQAP) | 0360",2010-11-30,2015-12-17,360,1843
+"Palestinians | 0309",1970-09-01,2001-05-08,309,11207
+"National Liberation Army of Colombia (ELN) | 0182",1975-03-12,2015-10-25,182,14837
+"Tehrik-i-Taliban Pakistan (TTP) | 0162",2008-01-01,2015-12-11,162,2901
+"Hezbollah | 0143",1983-03-01,2015-01-28,143,11656
+"Boko Haram | 0139",2011-05-30,2015-12-17,139,1662
+"Huthi Extremists | 0126",2013-09-30,2015-12-25,126,816
+"Algerian Islamic Extremists | 0125",1998-02-20,2008-12-27,125,3963
+"Bangsamoro Islamic Freedom Movement (BIFM) | 0120",2012-08-05,2015-12-31,120,1243
+"Basque Fatherland and Freedom (ETA) | 0119",1975-05-06,2007-09-10,119,11815
+"M-19 (Movement of April 19) | 0118",1978-01-25,1988-06-21,118,3800
+"Nicaraguan Resistance | 0113",1987-06-19,1990-03-23,113,1008
+"Democratic Revolutionary Alliance (ARDE) | 0112",1983-05-01,1986-02-16,112,1022
+"Luhansk People's Republic | 0100",2014-05-08,2015-11-03,100,544
+"Palestine Liberation Organization (PLO) | 0097",1979-05-06,1994-04-02,97,5445
+"Gunmen | 0089",1995-06-02,2011-11-29,89,6024
+"Chechen Rebels | 0084",1997-06-26,2014-04-03,84,6125
+"Palestinian Extremists | 0084",2012-07-25,2015-12-31,84,1254
+"African National Congress (South Africa) | 0076",1981-05-27,1994-11-20,76,4925
+"Salafist Group for Preaching and Fighting (GSPC) | 0075",1999-03-01,2007-01-23,75,2885
+"Hamas (Islamic Resistance Movement) | 0072",1991-04-16,2015-12-10,72,9004
+"Muslim Fundamentalists | 0072",1992-03-28,2015-12-09,72,8656
+"Separatists | 0068",1984-11-18,2015-11-30,68,11334
+"Maoists | 0063",2001-02-27,2015-12-02,63,5391
+"Al-Qaida in the Islamic Maghreb (AQIM) | 0058",2007-01-30,2015-08-03,58,3107
+"People's Liberation Front (JVP) | 0056",1988-01-13,1990-02-04,56,753
+"Al-Nusrah Front | 0055",2012-09-07,2015-12-25,55,1204
+"Al-Qaida in Iraq | 0054",2004-12-14,2013-03-19,54,3017
+"Communist Party of India - Maoist (CPI-Maoist) | 0054",2005-09-04,2015-08-30,54,3647
+"Abu Sayyaf Group (ASG) | 0053",1994-11-27,2015-12-28,53,7701
+"Tamils | 0053",1984-04-09,2000-01-01,53,5745
+"Baloch Liberation Front (BLF) | 0052",2012-01-11,2015-12-29,52,1448
+"Sandinista National Liberation Front (FSLN) | 0049",1977-10-13,1979-06-05,49,600
+"Sinai Province of the Islamic State | 0049",2014-11-13,2015-12-20,49,402
+"Left-Wing Militants | 0048",1970-01-06,1971-11-30,48,693
+"National Union for the Total Independence of Angola (UNITA) | 0048",1983-02-01,2001-04-09,48,6642
+"Contras | 0045",1981-12-01,1983-03-21,45,475
+"Popular Liberation Army (EPL) | 0045",1977-07-01,2002-05-14,45,9083
+"Moro Islamic Liberation Front (MILF) | 0042",1995-09-20,2014-07-11,42,6869
+"Simon Bolivar Guerrilla Coordinating Board (CGSB) | 0040",1986-01-19,1992-10-25,40,2471
+"Baloch Republican Army (BRA) | 0039",2012-01-01,2015-10-17,39,1385
+"Guatemalan National Revolutionary Unity (URNG) | 0035",1985-05-16,1996-01-16,35,3897
+"Hizbul Mujahideen (HM) | 0035",1990-11-07,2015-10-22,35,9115
+"People's Liberation Army (India) | 0035",1984-03-15,2015-10-26,35,11547
+"Revolutionary Organization of People in Arms (ORPA) | 0035",1979-11-29,1990-03-28,35,3772
+"Tupac Amaru Revolutionary Movement (MRTA) | 0035",1985-11-06,1995-12-01,35,3677
+"Guerrilla Army of the Poor (EGP) | 0033",1975-11-01,1988-02-21,33,4495
+"Irish National Liberation Army (INLA) | 0031",1975-02-25,1996-09-03,31,7861
+"Lashkar-e-Taiba (LeT) | 0031",1999-04-01,2015-11-17,31,6074
+"Manuel Rodriguez Patriotic Front (FPMR) | 0031",1984-07-05,1992-10-28,31,3037
+"Mozambique National Resistance Movement (MNR) | 0031",1987-06-25,2015-12-25,31,10410
+"Barqa Province of the Islamic State | 0030",2014-11-12,2015-12-13,30,396
+"Moro National Liberation Front (MNLF) | 0030",1978-08-22,2013-09-11,30,12804
+"Muslim Brotherhood | 0029",1979-06-16,2014-03-15,29,12691
+"Baloch Liberation Army (BLA) | 0028",2005-08-22,2015-12-22,28,3774
+"Islamist Extremists | 0027",1992-05-10,2010-10-28,27,6745
+"Tribesmen | 0027",2013-12-21,2015-04-19,27,484
+"Free Syrian Army | 0026",2012-02-24,2015-11-24,26,1369
+"Muttahida Qami Movement (MQM) | 0026",1994-09-08,1995-10-06,26,393
+"Southern Mobility Movement (Yemen) | 0026",2010-09-03,2015-04-13,26,1683
+"Ulster Freedom Fighters (UFF) | 0026",1972-03-26,2015-09-10,26,15873
+"Ulster Volunteer Force (UVF) | 0026",1973-02-04,2000-09-16,26,10086
+"Lashkar-e-Islam (Pakistan) | 0025",2010-01-08,2015-03-28,25,1905
+"16 January Organization for the Liberation of Tripoli | 0024",1989-01-20,1989-12-12,24,326
+"Armed Islamic Group (GIA) | 0024",1994-04-26,2006-05-08,24,4395
+"Lord's Resistance Army (LRA) | 0023",1995-04-25,2015-10-09,23,7472
+"Ricardo Franco Front (Dissident FARC) | 0023",1985-01-30,1988-12-16,23,1416
+"Popular Resistance Committees (Yemen) | 0022",2015-04-10,2015-08-27,22,139
+"United Liberation Front of Assam (ULFA) | 0022",1996-08-18,2014-09-19,22,6606
+"Kashmiri Militants | 0021",1990-05-04,1996-12-01,21,2403
+"Official Irish Republican Army (OIRA) | 0021",1971-03-08,1975-10-31,21,1698
+"Sikh Extremists | 0021",1984-04-14,1992-09-24,21,3085
+"Turkish People's Liberation Army | 0021",1970-08-31,1976-03-27,21,2035
+"Ansar Bayt al-Maqdis (Ansar Jerusalem) | 0020",2012-09-21,2014-11-04,20,774
+"Black Nationalists | 0020",1970-03-12,1985-12-12,20,5754
+"Inkatha Freedom Party (IFP) | 0020",1992-03-13,1996-03-27,20,1475
+"Misurasata Indian Organization | 0020",1983-03-30,1985-01-14,20,656
+"Narco-Terrorists | 0020",1989-10-07,1992-01-10,20,825
+"National Socialist Council of Nagaland-Khaplang (NSCN-K) | 0020",2008-04-11,2015-09-02,20,2700
+"Dev Sol | 0019",1981-04-04,1994-12-15,19,5003
+"Mujahedin-e Khalq (MEK) | 0019",1972-05-31,1994-03-18,19,7961
+"9 February | 0018",1988-01-27,1989-03-07,18,405
+"Movement of Democratic Forces of Casamance | 0018",1990-07-23,2015-10-30,18,9230
+"Sudan People's Liberation Movement in Opposition (SPLM-IO) | 0018",2014-02-23,2015-09-13,18,567
+"Hutus | 0017",1992-03-05,1999-06-26,17,2669
+"Movement for Oneness and Jihad in West Africa (MUJAO) | 0017",2013-01-30,2014-03-09,17,403
+"Muslim Militants | 0017",1986-02-26,2000-02-24,17,5111
+"Supporters of Abd Rabbuh Mansur Hadi | 0017",2015-03-12,2015-08-05,17,146
+"White Extremists | 0017",1970-01-25,1996-10-03,17,9748
+"Aryan Republican Army | 0016",1994-01-25,1995-12-19,16,693
+"Kosovo Liberation Army (KLA) | 0016",1998-04-14,1999-06-17,16,429
+"Palestinian Islamic Jihad (PIJ) | 0016",1990-10-21,2015-09-21,16,9101
+"Popular Front for the Liberation of Palestine (PFLP) | 0016",1970-06-10,2012-11-10,16,15494
+"Protestant Extremists | 0016",1972-07-13,2000-09-10,16,10286
+"Tripoli Province of the Islamic State | 0016",2015-03-14,2015-12-19,16,280
+"Allied Democratic Forces (ADF) | 0015",1997-07-04,2015-12-27,15,6750
+"Khorasan Chapter of the Islamic State | 0015",2015-04-04,2015-12-13,15,253
+"Left-Wing Guerrillas | 0015",1980-07-27,1996-09-05,15,5884
+"Brunswijk Jungle Commando | 0014",1986-07-23,1990-07-21,14,1459
+"Fulani Militants | 0014",2013-03-17,2015-05-06,14,780
+"May 19 Communist Order | 0014",1976-12-06,1983-08-18,14,2446
+"Montoneros (Argentina) | 0014",1973-04-04,1979-12-08,14,2439
+"People's Liberation Forces (FPL) | 0014",1978-10-11,1979-10-29,14,383
+"Red Army Faction (RAF) | 0014",1979-06-25,1985-09-06,14,2265
+"Shaykh Subhi Al-Salih Forces | 0014",1988-12-04,1989-03-14,14,100
+"United National Liberation Front (UNLF) | 0014",2003-11-05,2015-11-17,14,4395
+"Abu Nidal Organization (ANO) | 0013",1978-08-05,1992-10-20,13,5190
+"First of October Antifascist Resistance Group (GRAPO) | 0013",1976-03-27,1990-06-15,13,5193
+"Shanti Bahini - Peace Force | 0013",1989-06-22,1996-05-19,13,2523
+"Sudan People's Liberation Movement - North | 0013",2012-10-08,2015-06-02,13,967
+"Ansar al-Sharia (Libya) | 0012",2013-11-25,2015-05-13,12,534
+"Bangladesh Nationalist Party (BNP) | 0012",1991-07-03,2013-04-13,12,7955
+"Corsican National Liberation Front (FLNC) | 0012",1978-01-14,2003-07-07,12,9305
+"Democratic Front for the Liberation of Palestine (DFLP) | 0012",1982-03-25,2014-04-12,12,11706
+"Ex-Somoza National Guard | 0012",1980-08-06,1981-12-09,12,490
+"Haqqani Network | 0012",2009-06-30,2014-04-28,12,1763
+"Khmer Rouge | 0012",1978-08-30,1999-03-07,12,7494
+"Lebanese National Resistance Front | 0012",1983-01-05,1991-11-23,12,3244
+"Al-Aqsa Martyrs Brigade | 0011",2002-02-19,2015-05-03,11,4821
+"Al-Naqshabandiya Army | 0011",2014-09-07,2015-01-12,11,127
+"Communists | 0011",1978-09-30,1994-08-01,11,5784
+"Free Aceh Movement (GAM) | 0011",1989-09-26,2003-05-01,11,4965
+"Halqa-e-Mehsud | 0011",2015-05-03,2015-11-22,11,203
+"Hizb-I-Islami | 0011",1991-09-30,2015-04-08,11,8591
+"Islamic Front (Syria) | 0011",2014-02-19,2015-02-14,11,360
+"Military Council of the Tribal Revolutionaries (MCTR) | 0011",2014-04-03,2014-12-23,11,264
+"Mujahideen Ansar | 0011",2013-01-13,2014-11-11,11,667
+"Revolutionary United Front (RUF) | 0011",1994-04-01,2000-06-12,11,2264
+"Runda Kumpulan Kecil (RKK) | 0011",2012-01-15,2015-10-30,11,1384
+"Thai Islamic Militants | 0011",2005-05-04,2006-05-02,11,363
+"Armenian Secret Army for the Liberation of Armenia | 0010",1976-01-01,1986-10-01,10,3926
+"Haftar Militia | 0010",2014-05-16,2014-11-15,10,183
+"Moslem Activists | 0010",1994-04-08,1994-06-14,10,67
+"National Democratic Front of Bodoland (NDFB) | 0010",1999-08-11,2014-10-09,10,5538
+"Rebel Armed Forces of Guatemala (FAR) | 0010",1983-12-07,1989-10-02,10,2126
+"Shan State Progressive Party | 0010",1979-01-03,1979-03-20,10,76
+"Southern Front | 0010",2015-06-09,2015-06-17,10,8
+"Student Radicals | 0010",1970-02-06,1971-10-03,10,604
+"Tuaregs | 0010",1991-11-09,2014-11-02,10,8394
+"Al-Qaida | 0009",2000-01-03,2008-02-01,9,2951
+"Irish People's Liberation Organization (IPLO) | 0009",1986-12-21,1992-11-01,9,2142
+"Lashkar-e-Balochistan | 0009",2014-02-07,2015-11-06,9,637
+"Militants | 0009",2008-08-28,2011-11-24,9,1183
+"National Socialist Council of Nagaland-Isak-Muivah (NSCN-IM) | 0009",2008-06-26,2012-11-21,9,1609
+"Neo-Nazi Group | 0009",1975-08-16,2013-11-03,9,13959
+"Revolutionary Cells | 0009",1976-06-02,1982-07-02,9,2221
+"Anti-Terrorist Liberation Group (GAL) | 0008",1983-12-19,1987-07-24,8,1313
+"Black Liberation Army | 0008",1971-01-24,1974-05-03,8,1195
+"Ejercito Revolucionaria del Pueblo (ERP) (Argentina) | 0008",1972-04-10,1975-07-01,8,1177
+"National Liberation Front of Tripura (NLFT) | 0008",1996-04-03,2014-10-23,8,6777
+"Popular Revolutionary Army (Mexico) | 0008",1996-07-16,1998-07-25,8,739
+"South-West Africa People's Organization (SWAPO) | 0008",1979-02-27,1988-09-09,8,3482
+"Tawhid and Jihad | 0008",2004-02-18,2004-10-14,8,239
+"Ahrar al-Sham | 0007",2015-04-27,2015-10-04,7,160
+"Beirut Martyrs Battalion | 0007",1988-09-02,1989-06-22,7,293
+"Bougainville Revolutionary Army (BRA) | 0007",1992-08-02,1996-09-08,7,1498
+"Coalition to Save the Preserves (CSP) | 0007",2000-04-09,2001-01-18,7,284
+"Democratic Karen Buddhist Army (DKBA) | 0007",1995-02-13,2014-09-27,7,7166
+"Fighting Popular Rally | 0007",1977-12-23,1977-12-23,7,0
+"Free Papua Movement (OPM-Organisasi Papua Merdeka) | 0007",2006-04-10,2014-08-01,7,3035
+"Garo National Liberation Army | 0007",2010-11-17,2015-03-31,7,1595
+"Hizbul al Islam (Somalia) | 0007",2010-07-05,2010-12-13,7,161
+"Left-Wing Terrorists | 0007",1980-08-05,1991-11-17,7,4121
+"National Socialist Council of Nagaland | 0007",1988-04-19,1997-07-22,7,3381
+"Sudan People's Liberation Army (SPLA) | 0007",1988-02-12,2011-01-08,7,8366
+"Supporters of the Islamic State in Jerusalem | 0007",2015-07-19,2015-07-19,7,0
+"Taliban (Pakistan) | 0007",2006-05-01,2007-11-15,7,563
+"United Freedom Front (UFF) | 0007",1982-04-02,1984-06-05,7,795
+"Adan-Abyan Province of the Islamic State | 0006",2015-08-12,2015-11-04,6,84
+"Amal | 0006",1986-05-01,1999-10-23,6,4923
+"Black Panther Group (Palestinian) | 0006",1991-11-26,1995-11-29,6,1464
+"Cinchoneros Popular Liberation Movement | 0006",1986-10-11,1991-05-26,6,1688
+"Colombian Guerrillas | 0006",1987-01-26,1996-02-08,6,3300
+"Democratic Front for the Liberation of Rwanda (FDLR) | 0006",2015-04-06,2015-09-24,6,171
+"Eelam People's Revolutionary Liberation Front (EPRLF) | 0006",1986-03-17,1989-11-21,6,1345
+"Guerrillas | 0006",1979-08-09,1987-01-06,6,2707
+"Jaish-e-Mohammad (JeM) | 0006",2001-07-21,2015-11-25,6,5240
+"Janatantrik Terai Mukti Morcha- Jwala Singh (JTMM-J) | 0006",2007-04-19,2010-04-06,6,1083
+"Liberation and Justice Movement (LJM) | 0006",2014-01-13,2014-11-23,6,314
+"Macheteros | 0006",1978-08-24,1986-11-05,6,2995
+"Movement for the Emancipation of the Niger Delta (MEND) | 0006",2007-01-10,2013-11-13,6,2499
+"Mujahideen Youth Movement (MYM) | 0006",2007-06-01,2008-05-07,6,341
+"Muslim Separatists | 0006",1992-05-24,1995-09-14,6,1208
+"November 17 Revolutionary Organization (N17RO) | 0006",1984-04-03,1992-03-05,6,2893
+"Paramilitaries | 0006",1995-01-14,2001-01-01,6,2179
+"People's Army (Myanmar) | 0006",1979-01-02,1979-02-08,6,37
+"People's War Group (PWG) | 0006",1998-08-09,2004-10-14,6,2258
+"Pro-Russia Militia | 0006",2014-03-18,2015-04-21,6,399
+"Purbo Banglar Communist Party | 0006",1995-10-04,2011-05-02,6,5689
+"Rahanwein Resistance Army (RRA) | 0006",1997-08-14,1997-12-29,6,137
+"Red Brigades | 0006",1978-05-01,1982-08-26,6,1578
+"Rival Activists | 0006",1995-09-15,1996-05-07,6,235
+"Spanish Basque Battalion (BBE) (rightist) | 0006",1978-12-21,1981-04-23,6,854
+"World Church of the Creator | 0006",1999-07-02,1999-07-04,6,2
+"Ansar al-Dine (Mali) | 0005",2015-06-27,2015-12-25,5,181
+"Armed Proletarian Power | 0005",1977-01-01,1977-01-01,5,0
+"Baader-Meinhof Group | 0005",1970-11-09,1973-09-29,5,1055
+"Coordination Committee (CORCOM) | 0005",2013-01-25,2014-01-26,5,366
+"Cossack Separatists | 0005",2014-10-07,2014-10-07,5,0
+"Gbagbo Loyalists | 0005",2012-08-05,2012-08-13,5,8
+"Jamaat-E-Islami (Bangladesh) | 0005",1992-05-08,2014-04-04,5,8001
+"Kurdish Democratic Party-Iraq (KDP) | 0005",1988-11-16,1998-08-16,5,3560
+"Okba Ibn Nafaa Brigade | 0005",2014-07-16,2015-08-23,5,403
+"Polisario Front | 0005",1978-12-10,1987-02-18,5,2992
+"Quintin Lame | 0005",1985-05-20,1987-05-24,5,734
+"Recontras | 0005",1991-08-27,1996-07-14,5,1783
+"Revolutionary Armed Forces of Nicaragua (FARN) | 0005",1981-12-20,1983-03-24,5,459
+"Revolutionary Front for an Independent East Timor (FRETILIN) | 0005",1989-01-01,1997-09-18,5,3182
+"Shiite Muslims | 0005",1979-09-14,1996-09-10,5,6206
+"Shura Council of Benghazi Revolutionaries | 0005",2014-09-09,2015-06-22,5,286
+"Southern Yemen Separatists | 0005",2010-02-19,2014-01-17,5,1428
+"The Order (Silent Brotherhood) | 0005",1983-10-28,1984-07-19,5,265
+"United Nicaraguan Opposition | 0005",1986-07-04,1986-07-05,5,1
+"Abdullah Azzam Brigades | 0004",2005-08-19,2014-04-18,4,3164
+"Ahlu-sunah Wal-jamea (Somalia) | 0004",2008-12-23,2015-07-19,4,2399
+"Al-Fatah | 0004",1988-03-26,1992-07-07,4,1564
+"Al-Mansoorian | 0004",2002-08-06,2005-07-29,4,1088
+"Ansar al-Islam | 0004",2008-02-01,2014-01-27,4,2187
+"Ansar al-Sharia (Tunisia) | 0004",2013-07-29,2013-10-23,4,86
+"Arab Democratic Party | 0004",1987-09-08,1987-09-08,4,0
+"Awami League | 0004",1991-12-06,2015-02-19,4,8476
+"Azawad National Liberation Movement (MNLA) | 0004",2013-09-29,2015-05-11,4,589
+"Black Muslims | 0004",1973-09-18,1974-12-29,4,467
+"Communist Party of Nepal- Maoist (CPN-M) | 0004",2001-11-23,2008-04-05,4,2325
+"Dissident Republicans | 0004",2013-12-17,2015-08-14,4,605
+"Donskoy Army | 0004",2014-10-14,2014-10-14,4,0
+"Informal Anarchist Federation | 0004",2005-03-01,2013-09-02,4,3107
+"Irish Republican Extremists | 0004",1975-04-03,1987-01-26,4,4316
+"Islamic Salvation Front (FIS) | 0004",1991-07-12,1992-09-27,4,443
+"Jamaat-ul-Ahrar | 0004",2014-08-28,2015-01-04,4,129
+"Jammu and Kashmir Liberation Front | 0004",1990-06-29,1994-04-14,4,1385
+"Janjaweed | 0004",2004-04-16,2015-07-30,4,4122
+"Karen National Union | 0004",1994-07-18,1995-07-12,4,359
+"Kurdistan Free Life Party | 0004",2008-10-18,2013-02-24,4,1590
+"Lorenzo Zelaya Revolutionary Front (LZRF) | 0004",1981-09-23,1988-07-17,4,2489
+"Marxists | 0004",1985-10-31,1986-01-12,4,73
+"Mayi Mayi | 0004",2008-11-04,2013-10-29,4,1820
+"Modakeke Ethnics | 0004",1997-08-20,1997-08-20,4,0
+"Morazanist Front for the Liberation of Honduras (FMLH) | 0004",1983-09-03,1990-03-31,4,2401
+"Muslim Rebels | 0004",1992-10-09,2002-12-26,4,3730
+"National Council for Defense of Democracy (NCDD) | 0004",1999-10-12,2003-07-17,4,1374
+"National Democratic Alliance Army (NDAA-ESSA) | 0004",2015-02-09,2015-02-09,4,0
+"National Liberation Front (FNL) (Burundi) | 0004",2014-02-02,2014-10-05,4,245
+"National Patriotic Front of Liberia (NPFL) | 0004",1991-04-16,1994-06-21,4,1162
+"Palestinian Revolution Forces | 0004",1986-06-26,1986-07-24,4,28
+"People's Liberation Front of India | 0004",2010-05-02,2014-03-08,4,1406
+"Popular Movement for the Liberation of Angola | 0004",1992-07-12,1992-10-28,4,108
+"Red Flag (Venezuela) | 0004",1982-01-22,1988-10-29,4,2472
+"Revolutionary Patriotic Anti-Fascist Front (FRAP) | 0004",1975-05-27,1977-05-02,4,706
+"Revolutionary People's Struggle (ELA) | 0004",1987-09-26,1989-10-22,4,757
+"Revolutionary Workers' Council (Kakurokyo) | 0004",1978-01-27,1978-01-27,4,0
+"Seleka | 0004",2013-11-16,2014-08-04,4,261
+"Supreme Council for Islamic Revolution in Iraq (SCIRI) | 0004",1992-10-09,1997-05-07,4,1671
+"Takfir wal-Hijra (Excommunication and Exodus) | 0004",2005-02-02,2013-06-15,4,3055
+"The Northern Alliance (or United Islamic Front for Salvation of Afghanistan – UIFSA) | 0004",1999-07-23,1999-07-29,4,6
+"Tuareg Guerrillas | 0004",1991-12-12,2007-05-12,4,5630
+"Tutsi | 0004",1991-11-26,2001-07-22,4,3526
+"United Baloch Army (UBA) | 0004",2013-06-03,2015-03-01,4,636
+"Zeliangrong United Front | 0004",2011-10-07,2015-03-10,4,1250
+"Abkhazian Separatists | 0003",1992-09-19,1997-07-09,3,1754
+"Afghan Mujahideen | 0003",1991-07-29,1992-07-30,3,367
+"Al-Faruo Battalion | 0003",1988-10-10,1988-10-18,3,8
+"Anti-Abortion Activists | 0003",1991-04-22,1995-01-18,3,1367
+"Anti-Balaka Militia | 0003",2013-12-31,2014-07-30,3,211
+"Anti-Communist Vigilante Group | 0003",1989-09-14,1989-09-14,3,0
+"Armed Forces of the Chechen Republic of Ichkeria | 0003",2001-11-25,2002-07-09,3,226
+"Azerbaijan Guerrillas | 0003",1991-08-13,1992-05-26,3,287
+"Bodo Militants | 0003",1995-10-31,1996-03-11,3,132
+"Canary Islands Independence Movement | 0003",1978-02-08,1978-07-08,3,150
+"Coordination of Azawad Movements (CMA) | 0003",2015-05-02,2015-05-22,3,20
+"Counter-revolutionaries | 0003",1979-12-27,1981-11-24,3,698
+"Dima Halao Daoga (DHD) | 0003",2007-09-26,2008-08-17,3,326
+"Eritrean Liberation Front | 0003",1970-01-11,1978-10-26,3,3210
+"Extremists | 0003",1980-09-20,1983-09-23,3,1098
+"Fatah Uprising | 0003",1989-02-23,1990-01-05,3,316
+"Front for the Liberation of Lebanon from Foreigners | 0003",1981-09-17,1982-02-27,3,163
+"Front for the Liberation of the Enclave of Cabinda (FLEC) | 0003",1995-03-18,2000-05-24,3,1894
+"Front for the Restoration of Unity and Democracy | 0003",1992-01-17,1992-02-24,3,38
+"Fuerzas Armadas de Liberacion Nacional (FALN) | 0003",1979-10-17,1979-12-03,3,47
+"George Jackson Brigade | 0003",1977-05-21,1977-11-02,3,165
+"Hadramawt Province of the Islamic State | 0003",2015-04-30,2015-08-20,3,112
+"Islamic Courts Union (ICU) | 0003",2005-10-17,2008-03-19,3,884
+"Jaish al-Adl | 0003",2013-12-18,2015-04-10,3,478
+"Jewish Extremists | 0003",1982-12-02,1985-11-29,3,1093
+"Kangleipak Communist Party (KCP) | 0003",2009-04-03,2011-08-28,3,877
+"Karen Insurgents | 0003",1991-10-23,1994-10-12,3,1085
+"Kharkiv Partisans | 0003",2014-11-08,2015-02-22,3,106
+"Kilafah Islamic Movement | 0003",2012-08-08,2015-12-29,3,1238
+"Kurdish Democratic Party-Iran (KDP) | 0003",1989-09-30,1990-04-17,3,199
+"Latin America Anti-Communist Army (LAACA) | 0003",1974-12-08,1974-12-08,3,0
+"Lebanese Liberation Front | 0003",1987-04-16,1988-03-24,3,343
+"Macina Liberation Front (FLM) | 0003",2015-08-10,2015-12-09,3,121
+"Naga People | 0003",1990-11-02,1997-10-30,3,2554
+"National Alliance (Chad) | 0003",2008-06-14,2008-06-16,3,2
+"Party for the Liberation of the Hutu People (PALIPEHUTU) | 0003",1992-04-08,2002-11-19,3,3877
+"Peasant Self-Defense Group (ACCU) | 0003",1996-08-26,1996-10-16,3,51
+"People's Revolutionary Army (ERP) | 0003",2002-05-15,2005-02-28,3,1020
+"Popular Liberation Army (Puerto Rico) | 0003",1991-02-02,1991-03-17,3,43
+"Puerto Rican Nationalists | 0003",1970-05-01,1986-03-17,3,5799
+"Right-Wing Extremists | 0003",1970-05-28,1984-08-10,3,5188
+"Self-Defense Group of Imghad Tuaregs and Allies (GATIA) | 0003",2015-01-28,2015-05-21,3,113
+"Senki (""Battle Flag"") | 0003",1983-07-05,1983-07-05,3,0
+"Sudan Alliance Forces | 0003",1996-04-20,1996-11-14,3,208
+"Sudan Liberation Movement | 0003",2008-11-27,2015-06-16,3,2392
+"Supporters of Ex-President Gamsakhurdial | 0003",1992-03-13,1992-07-06,3,115
+"Symbionese Liberation Army (SLA) | 0003",1974-04-15,1975-04-21,3,371
+"Syrian Social Nationalist Party | 0003",1985-04-09,1990-11-25,3,2056
+"Tehrik-e-Nafaz-e-Shariat-e-Mohammadi (TNSM) | 0003",2007-11-06,2012-07-01,3,1699
+"Turkish Communist Party/Marxist (TKP-ML) | 0003",1996-08-25,2015-08-09,3,6923
+"Turkish People's Liberation Front (TPLF)(THKP-C) | 0003",1970-10-02,1980-05-20,3,3518
+"United Self Defense Units of Colombia (AUC) | 0003",1999-06-06,2001-10-14,3,861
+"Weather Underground, Weathermen | 0003",1970-01-01,1970-10-08,3,280
+"Zimbabwe African Nationalist Union (ZANU) | 0003",1979-04-01,2013-02-23,3,12382
+"313 Brigade (Syria) | 0002",2013-06-28,2013-06-28,2,0
+"Action Directe | 0002",1980-09-19,1984-07-13,2,1393
+"Al-Mua'qi'oon Biddam Brigade (Those who Sign with Blood) | 0002",2014-07-14,2015-01-26,2,196
+"Al-Sa'iqa | 0002",1984-05-29,1988-11-06,2,1622
+"Al-Shabaab al-Mu'minin | 0002",2005-04-25,2005-05-07,2,12
+"Al-Shuda Brigade | 0002",2003-07-22,2013-09-26,2,3719
+"Albanian National Army (ANA) | 0002",2001-08-14,2003-05-17,2,641
+"Albanians | 0002",2000-05-20,2001-07-01,2,407
+"Alfaro Vive | 0002",1985-05-11,1986-11-10,2,548
+"Algeisk Wolves | 0002",1995-04-09,1995-06-08,2,60
+"Alliance of Patriots for a Free and Sovereign Congo (APCLS) | 0002",2014-04-30,2015-09-24,2,512
+"America Battalion | 0002",1986-03-04,1986-05-13,2,70
+"Americans for a Competent Federal Judicial System | 0002",1989-08-21,1989-12-16,2,117
+"Animal Liberation Front (ALF) | 0002",1999-08-12,1999-08-21,2,9
+"Anti-Government Group | 0002",1992-04-15,1995-03-28,2,1077
+"Arab Movement of Azawad (MAA) | 0002",2014-12-15,2015-05-18,2,154
+"Arab Socialist Baath Party | 0002",1985-09-04,1985-11-27,2,84
+"Arabs | 0002",1981-01-11,1996-05-13,2,5601
+"Armed Forces for Liberation of East Timor (FALINTIL) | 0002",1992-12-09,1995-12-01,2,1087
+"Armed Forces of National Resistance (FARN) | 0002",1976-06-28,1979-10-30,2,1219
+"Armenian Guerrillas | 0002",1990-08-19,1991-08-15,2,361
+"Bahujan Samaj Party | 0002",1996-10-03,1996-10-03,2,0
+"Baloch National Liberation Front | 0002",2013-12-10,2015-05-29,2,535
+"Baloch Nationalists | 0002",2014-04-04,2015-04-12,2,373
+"Bandits | 0002",2000-09-04,2002-08-25,2,720
+"Basque Militants | 0002",1992-05-31,1992-05-31,2,0
+"Bedouin tribesmen | 0002",2012-05-05,2012-06-15,2,41
+"Besi Merah Putih Militia | 0002",1999-05-10,1999-05-10,2,0
+"Black Widows | 0002",2008-10-30,2009-05-13,2,195
+"Brelvi Muslims | 0002",1997-10-20,1997-10-21,2,1
+"Catalan Liberation Front (FAC) | 0002",1972-03-02,1972-03-19,2,17
+"Caucasus Emirate | 0002",2008-06-23,2009-06-13,2,355
+"Chicano Radicals | 0002",1971-05-04,1971-06-16,2,43
+"Communist Party of India- Marxist | 0002",2012-06-05,2012-06-07,2,2
+"Communist Party of Nepal- Unified Marxist-Leninist (CPN-UML) | 0002",1997-06-09,2008-11-20,2,4182
+"Congolese Democratic Coalition | 0002",1998-10-11,1998-10-11,2,0
+"Convention of Patriots for Justice and Peace | 0002",2011-04-10,2013-02-28,2,690
+"Dacoits | 0002",1991-03-17,1991-10-10,2,207
+"David Yau Yau Militia | 0002",2012-08-23,2013-02-08,2,169
+"Derna Mujahideen Shura Council | 0002",2014-12-24,2014-12-28,2,4
+"Drug-Related Terrorists | 0002",1986-08-16,1995-03-13,2,3131
+"Farmers | 0002",1997-01-13,1997-01-17,2,4
+"Force 17 | 0002",1984-02-25,1987-08-02,2,1254
+"Free Libya Martyrs Brigade | 0002",2015-10-13,2015-10-14,2,1
+"Gono Bahini (GB) | 0002",2009-06-28,2009-08-10,2,43
+"Hadramawt Tribes Alliance | 0002",2014-02-07,2015-04-29,2,446
+"Hezb-e Wahdat-e Islami-yi Afghanistan | 0002",1992-06-02,1992-09-18,2,108
+"Holy Spirit Movement | 0002",1988-02-23,1990-05-11,2,808
+"Ingush Rebels | 0002",1992-10-30,1992-10-30,2,0
+"Insurgents | 0002",2011-11-06,2011-11-14,2,8
+"Iparretarrak (IK) | 0002",1989-06-30,1994-03-29,2,1733
+"Iraqi Revolutionary Forces | 0002",1992-11-12,1992-11-12,2,0
+"Islamic Movement of Uzbekistan (IMU) | 0002",2000-08-12,2000-08-12,2,0
+"Israeli Settler | 0002",2014-11-12,2015-08-24,2,285
+"Jamiat-e Islami-yi Afghanistan | 0002",1992-01-21,1992-01-22,2,1
+"Jamiat ul-Mujahedin (JuM) | 0002",2002-11-23,2013-03-21,2,3771
+"Janatantrik Terai Mukti Morcha (JTMM) | 0002",2006-07-05,2006-07-28,2,23
+"Jemaah Islamiya (JI) | 0002",2000-08-01,2013-04-09,2,4634
+"Jund al-Khilafah (Tunisia) | 0002",2015-04-07,2015-04-22,2,15
+"Jund al-Sham for Tawhid and Jihad | 0002",2008-06-12,2015-07-25,2,2599
+"Justice Commandos for the Armenian Genocide | 0002",1980-12-17,1982-12-29,2,742
+"Kach | 0002",1988-02-15,1991-03-08,2,1117
+"Kachin Independence Army (KIA) | 0002",1988-12-07,1992-04-03,2,1213
+"Karbi Longri North Cachar Liberation Front (KLNLF) | 0002",2006-04-10,2006-04-10,2,0
+"Khalistan Commando Force | 0002",1988-03-23,1989-01-12,2,295
+"Kisan Indian Organization | 0002",1986-04-13,1986-08-20,2,129
+"Ku Klux Klan | 0002",1980-02-17,1983-07-28,2,1257
+"Kurdish Rebels | 0002",1989-04-22,1989-04-25,2,3
+"Landless Peasants' Movement (MST) | 0002",1997-08-18,1997-08-18,2,0
+"Left-Wing Extremists | 0002",1983-11-01,1999-06-03,2,5693
+"Libya Revolutionaries Operations Room (LROR) | 0002",2013-10-10,2014-07-13,2,276
+"Liwa Ahrar al-Sunna | 0002",2014-03-29,2014-04-30,2,32
+"Loyalist Volunteer Forces (LVF) | 0002",1997-12-27,2000-01-10,2,744
+"M23 | 0002",2012-11-15,2013-05-20,2,186
+"Maoist Communist Center (MCC) | 0002",1997-09-07,2003-07-03,2,2125
+"Marxist-Leninist Armed Propaganda Unit | 0002",1979-05-11,1980-04-16,2,341
+"Modakeke Ethnic Activists | 0002",1997-12-02,1997-12-06,2,4
+"Mohajir National Movement | 0002",1994-04-22,1995-08-02,2,467
+"Moro Ghuraba | 0002",2013-09-27,2015-06-17,2,628
+"Movement for Democracy and Justice in Chad (MDJT) | 0002",1999-07-12,2002-05-27,2,1050
+"Mujahedeen Army | 0002",2006-01-19,2014-08-12,2,3127
+"Mujahidin Indonesia Timur (MIT) | 0002",2013-09-10,2015-11-29,2,810
+"Muslim Extremists | 0002",1979-09-14,2002-06-09,2,8304
+"Muslim Janbaz Force | 0002",1990-06-19,1990-06-19,2,0
+"Muslims | 0002",1981-01-29,1989-01-05,2,2898
+"Ninjas | 0002",1999-06-03,1999-06-21,2,18
+"Palestinian/Lebanese nationalists | 0002",1985-01-16,1985-01-16,2,0
+"Patriotic Ginbot 7 Movement for Unity and Democracy (PGMUD) | 0002",2015-12-15,2015-12-17,2,2
+"Patriotic Morazanista Front (FPM) | 0002",1989-04-11,1989-07-13,2,93
+"Patriotic Union of Kurdistan (PUK) | 0002",1995-03-11,1997-11-07,2,972
+"People's Liberation Organization of Tamil Eelam | 0002",1989-11-07,1999-05-15,2,3476
+"People's Revolutionary Party of Kangleipak-Progressive (PREPAK-P) | 0002",2015-01-11,2015-01-18,2,7
+"People Against Gangsterism and Drugs (PAGAD) | 0002",1999-04-07,2013-07-24,2,5222
+"Political Activists | 0002",1995-04-16,1996-07-02,2,443
+"Popular Resistance Committees | 0002",2007-11-04,2014-05-21,2,2390
+"Popular Revolutionary Bloc (BPR) | 0002",1979-09-29,1980-04-17,2,201
+"pro-iranian terrorists | 0002",1984-01-05,1984-01-05,2,0
+"Real Irish Republican Army (RIRA) | 0002",2000-11-27,2011-06-09,2,3846
+"Rebels | 0002",2009-07-29,2011-11-03,2,827
+"Recompras | 0002",1992-01-08,1992-01-28,2,20
+"Revolutionary Movement for National Salvation (REMNASA) | 0002",2015-01-27,2015-05-28,2,121
+"Right Wing Christian extremists | 0002",1978-11-24,1978-11-24,2,0
+"Rival caste | 0002",1996-04-07,1996-04-07,2,0
+"Rwanda Patriotic Front (RPF) | 0002",1992-03-12,1994-10-24,2,956
+"Sanaa Province of the Islamic State | 0002",2015-06-29,2015-07-07,2,8
+"Secessionists | 0002",1982-02-19,2012-12-04,2,11246
+"Shura Council of Mujahideen in Derna | 0002",2015-06-28,2015-06-29,2,1
+"South Sudan Democratic Army | 0002",2012-04-27,2015-02-16,2,1025
+"Spanish Armed Group | 0002",1980-01-13,1980-01-16,2,3
+"Spanish National Action | 0002",1979-08-02,1979-09-14,2,43
+"Special Purpose Islamic Regiment (SPIR) | 0002",2001-04-09,2002-02-06,2,303
+"Subversives | 0002",1981-07-16,1987-01-19,2,2013
+"Sudanese People's Liberation Forces | 0002",1988-02-18,1989-04-18,2,425
+"Sunni Muslims | 0002",1982-12-17,1996-09-12,2,5018
+"Tamil Eelam Liberation Organization (TELO) | 0002",1986-03-11,1989-11-25,2,1355
+"The Front for the Liberation of the Cabinda Enclave – Renewed (FLEC) | 0002",1999-03-10,2002-01-31,2,1058
+"Togolese Dissidents | 0002",1994-01-05,1994-10-06,2,274
+"Tribal Group | 0002",1995-02-19,1995-03-02,2,11
+"Tripoli Martyrs Battalion | 0002",1989-01-09,1989-01-09,2,0
+"United Somali Congress | 0002",1990-07-28,1990-12-16,2,141
+"Vigilante Group | 0002",1989-10-03,1989-12-09,2,67
+"Yemenis | 0002",2001-01-15,2001-01-17,2,2
+"Youths | 0002",1994-07-17,2002-10-04,2,3001
+"14 March Coalition | 0001",2008-07-09,2008-07-09,1,0
+"19th of July Christian Resistance Brigade | 0001",1981-06-25,1981-06-25,1,0
+"2 April Group | 0001",1983-03-15,1983-03-15,1,0
+"20 December Movement (M-20) | 0001",1992-06-08,1992-06-08,1,0
+"28s | 0001",2000-01-12,2000-01-12,1,0
+"Abida Tribe | 0001",2005-11-21,2005-11-21,1,0
+"Abkhazian guerrillas | 0001",1992-12-28,1992-12-28,1,0
+"Abu Jaafar al-Mansur Brigades | 0001",2014-01-05,2014-01-05,1,0
+"Abu Musa Group | 0001",1987-05-15,1987-05-15,1,0
+"Achik National Volunteer Council-B (ANVC-B) | 0001",2013-11-08,2013-11-08,1,0
+"Achik Songna An'pachakgipa Kotok (ASAK) | 0001",2015-08-01,2015-08-01,1,0
+"Active Espirit de Corps of the Argentina Army | 0001",1987-03-21,1987-03-21,1,0
+"Adan Abyan Islamic Army (AAIA) | 0001",1999-08-28,1999-08-28,1,0
+"Afghan Merceneries | 0001",1995-02-21,1995-02-21,1,0
+"Afghan Rebels | 0001",1988-03-27,1988-03-27,1,0
+"Ahmad Jibril | 0001",1978-08-13,1978-08-13,1,0
+"Aibed Er-Rahman katibet | 0001",2006-07-04,2006-07-04,1,0
+"Akhilesh Singh Gang | 0001",2000-10-01,2000-10-01,1,0
+"Al-Fatihin Army (AFA) | 0001",2008-01-01,2008-01-01,1,0
+"Al-Herak Al-Tihami Movement | 0001",2013-03-09,2013-03-09,1,0
+"Al-Islah Party | 0001",2014-09-16,2014-09-16,1,0
+"Al-Khobar | 0001",2012-02-06,2012-02-06,1,0
+"Al-Nasirin (India) | 0001",2002-12-12,2002-12-12,1,0
+"Al-Qaqa Brigade | 0001",2014-02-06,2014-02-06,1,0
+"Al-Zintan Revolutionaries' Military Council | 0001",2014-10-11,2014-10-11,1,0
+"Al-Zulfikar | 0001",1992-05-09,1992-05-09,1,0
+"Albatros Commando | 0001",1994-08-16,1994-08-16,1,0
+"Algeria Province of the Islamic State | 0001",2015-12-18,2015-12-18,1,0
+"All-Party Students Union | 0001",1995-04-10,1995-04-10,1,0
+"American Servicemen's Union (ASU) | 0001",1970-07-26,1970-07-26,1,0
+"Amr Bil Maroof Wa Nahi Anil Munkir | 0001",2010-12-26,2010-12-26,1,0
+"Anarchio Scene | 0001",1984-08-01,1984-08-01,1,0
+"Anarchists | 0001",1996-03-07,1996-03-07,1,0
+"Anbar Salvation Council | 0001",2007-06-02,2007-06-02,1,0
+"Andres Castro United Front | 0001",2000-03-16,2000-03-16,1,0
+"Angolan Defense Force | 0001",1985-06-29,1985-06-29,1,0
+"Animal Rights Activists | 0001",2000-08-20,2000-08-20,1,0
+"Anonymous Underground Movement (MCA) | 0001",2004-09-12,2004-09-12,1,0
+"Ansar Al-Khilafa (Philippines) | 0001",2015-11-26,2015-11-26,1,0
+"Ansar al-Sunna | 0001",2004-12-21,2004-12-21,1,0
+"Ansaru (Jama'atu Ansarul Muslimina Fi Biladis Sudan) | 0001",2013-01-19,2013-01-19,1,0
+"Anti-AF | 0001",1981-03-30,1981-03-30,1,0
+"Anti-Authority Group (Greece) | 0001",1990-02-13,1990-02-13,1,0
+"Anti-Communist Patriotic Front | 0001",1980-07-23,1980-07-23,1,0
+"Anti-Communist Viets Organization | 0001",1981-07-21,1981-07-21,1,0
+"Anti-Environmentalist | 0001",1998-06-27,1998-06-27,1,0
+"Anti-Government Demonstrators | 0001",1991-10-24,1991-10-24,1,0
+"Anti-Immigrant Activists | 0001",1981-01-28,1981-01-28,1,0
+"Anti-Terrorism ETA (ATE) | 0001",1975-11-18,1975-11-18,1,0
+"Anti-U.S. radicals | 0001",1991-12-08,1991-12-08,1,0
+"Anti Somoza Gp, name unk | 0001",1982-05-14,1982-05-14,1,0
+"April 6th Liberation Movement | 0001",1980-08-30,1980-08-30,1,0
+"Arab Liberation Front (ALF) | 0001",1979-08-05,1979-08-05,1,0
+"Arab Separatists | 0001",1980-04-29,1980-04-29,1,0
+"Arakan Liberation Party (ALP) | 0001",2015-10-18,2015-10-18,1,0
+"Arakan Rohingy Islamic Front | 0001",1991-11-10,1991-11-10,1,0
+"Argentine Anticommunist Alliance (AAA) | 0001",1976-08-20,1976-08-20,1,0
+"Argentine Liberation Front (FAL) | 0001",1970-04-05,1970-04-05,1,0
+"Ariska Brodraskapet (Aryan Brotherhood) | 0001",1999-06-28,1999-06-28,1,0
+"Armed Commandos of Liberation | 0001",1970-01-09,1970-01-09,1,0
+"Armed Forces for a Federal Republic (FARF) | 0001",1995-07-21,1995-07-21,1,0
+"Armed People | 0001",1995-03-12,1995-03-12,1,0
+"Armed Struggle for Communism | 0001",1977-02-10,1977-02-10,1,0
+"Armed Struggle Organization | 0001",1983-01-16,1983-01-16,1,0
+"Armed Subversives | 0001",1979-07-27,1979-07-27,1,0
+"Armenian Extremists | 0001",1990-08-20,1990-08-20,1,0
+"Armenian Group | 0001",1990-04-12,1990-04-12,1,0
+"Armenian militants | 0001",1992-03-09,1992-03-09,1,0
+"Armenian paramilitary group | 0001",1990-08-22,1990-08-22,1,0
+"Army of God | 0001",1998-10-23,1998-10-23,1,0
+"Army of the Republic of Ilirida | 0001",2002-08-12,2002-08-12,1,0
+"Army of the Tribes | 0001",2015-10-27,2015-10-27,1,0
+"Aryan Nation | 0001",1999-08-10,1999-08-10,1,0
+"Aum Shinri Kyo | 0001",1990-04-15,1990-04-15,1,0
+"Autonomous Anarchist Groups | 0001",1979-10-24,1979-10-24,1,0
+"Autonomous Decorators | 0001",2000-01-02,2000-01-02,1,0
+"Ayesha bint al-Sadiq Brigade | 0001",2013-10-17,2013-10-17,1,0
+"Azadejan (Liberation) | 0001",1981-08-13,1981-08-13,1,0
+"Babbar Khalsa International (BKI) | 0001",1992-08-03,1992-08-03,1,0
+"Baloch Republican Guards (BRG) | 0001",2014-09-16,2014-09-16,1,0
+"Baloch Waja Liberation Army (BWLA) | 0001",2014-03-06,2014-03-06,1,0
+"Baloch Young Tigers (BYT) | 0001",2015-11-17,2015-11-17,1,0
+"Bangladesh Communist Party | 0001",1991-07-07,1991-07-07,1,0
+"Bangladesh Sarbahara Party | 0001",1992-12-18,1992-12-18,1,0
+"Basque Separatists | 0001",1987-01-26,1987-01-26,1,0
+"BAY Bombers | 0001",1971-02-04,1971-02-04,1,0
+"Bedouin Movement (Sudan) | 0001",2013-01-21,2013-01-21,1,0
+"Begumcans Cell | 0001",1978-01-25,1978-01-25,1,0
+"Beja Congress | 0001",1996-10-03,1996-10-03,1,0
+"Black African Vigilantes | 0001",1994-10-24,1994-10-24,1,0
+"Black Afro Militant Movement | 0001",1971-02-20,1971-02-20,1,0
+"Black Forest Command | 0001",1989-09-09,1989-09-09,1,0
+"Black Hand | 0001",1983-12-21,1983-12-21,1,0
+"Black Liberation Force | 0001",1983-11-01,1983-11-01,1,0
+"Bodo Liberation Tigers (BLT) | 0001",2003-01-28,2003-01-28,1,0
+"Cambodian Freedom Fighters (CFF) | 0001",2000-11-24,2000-11-24,1,0
+"Cambodian People's Party (CPP) | 0001",1997-02-07,1997-02-07,1,0
+"Carlos Echeverria commando group | 0001",1981-03-17,1981-03-17,1,0
+"Chakma tribal group | 0001",2001-02-16,2001-02-16,1,0
+"Che Guevara Brigade | 0001",1977-09-11,1977-09-11,1,0
+"Chicano Liberation Front | 0001",1971-05-09,1971-05-09,1,0
+"Chukakuha (Middle Core Faction) | 0001",1986-04-15,1986-04-15,1,0
+"Citizens Volunteer Force | 0001",1989-11-21,1989-11-21,1,0
+"Coca Farmers | 0001",1997-04-17,1997-04-17,1,0
+"Colonel Karuna Faction | 0001",2006-04-10,2006-04-10,1,0
+"Combat 18 | 0001",1999-04-17,1999-04-17,1,0
+"Commandos | 0001",1980-06-02,1980-06-02,1,0
+"Committee for a National Drive for Peace and Democracy | 0001",1992-08-17,1992-08-17,1,0
+"Committee of Solidarity with Arab and Middle East Political Prisoners (CSPPA) | 0001",1986-06-07,1986-06-07,1,0
+"Communist Fighting Nuclei | 0001",1977-07-08,1977-07-08,1,0
+"Communist Fighting Unit | 0001",1978-01-01,1978-01-01,1,0
+"Communist Party of India- Marxist-Leninist | 0001",1999-09-25,1999-09-25,1,0
+"Communist Party of Thailand | 0001",1979-02-15,1979-02-15,1,0
+"Concerned citizens | 0001",1995-01-29,1995-01-29,1,0
+"Continuing Struggle | 0001",1989-12-21,1989-12-21,1,0
+"Continuity Irish Republican Army (CIRA) | 0001",2001-10-29,2001-10-29,1,0
+"Core Conspirators for the Extension of Chaos (Núcleo de Conspiradores por la Extensión de Kaos) | 0001",2011-12-21,2011-12-21,1,0
+"Coup Plotters Against the Government | 0001",1991-10-13,1991-10-13,1,0
+"Croatian Nationalists | 0001",1976-06-16,1976-06-16,1,0
+"Cuban Exiles | 0001",1976-05-16,1976-05-16,1,0
+"Cuncolta Naziunalista | 0001",1995-08-31,1995-08-31,1,0
+"Cyrenaica Self-Defense Force | 0001",2014-03-22,2014-03-22,1,0
+"Death Squad | 0001",1987-06-24,1987-06-24,1,0
+"Death to Drug Traffickers | 0001",1988-01-13,1988-01-13,1,0
+"Democratic Movement for the Liberation of the Eritrean Kunamas (DMLEK) | 0001",2007-11-05,2007-11-05,1,0
+"Democratic Revolutionary Front (FDR) | 0001",1980-09-21,1980-09-21,1,0
+"Democratic Revolutionary Party | 0001",1995-07-14,1995-07-14,1,0
+"Depositers angered | 0001",1994-10-06,1994-10-06,1,0
+"Devrimici Halk Kurtulus Cephesi (DHKP/C) | 0001",1997-07-14,1997-07-14,1,0
+"Dominican Popular Movement (MPD) | 0001",1970-03-24,1970-03-24,1,0
+"East Turkistan Liberation Organization | 0001",1999-10-05,1999-10-05,1,0
+"Ejercito Revolucionario Guevarista (Guevarist Revolutionary Army) | 0001",2000-07-27,2000-07-27,1,0
+"El-Feth katibat | 0001",2006-10-08,2006-10-08,1,0
+"Enraged Revolutionaries | 0001",2003-03-16,2003-03-16,1,0
+"Enyele Militia | 0001",2014-07-22,2014-07-22,1,0
+"Ethiopian People's Revolutionary Party | 0001",1992-04-04,1992-04-04,1,0
+"Evan Mecham Eco-Terrorist International Conspiracy (EMETIC) | 0001",1989-05-30,1989-05-30,1,0
+"Extreme Left | 0001",1981-11-19,1981-11-19,1,0
+"Fanmi Lavalas | 0001",2002-05-07,2002-05-07,1,0
+"Fatah al-Islam | 0001",2008-05-31,2008-05-31,1,0
+"Federation of Students and Scholars of Cote d'Ivoire (FESCI) | 0001",2000-09-29,2000-09-29,1,0
+"Forces of the Free Arab | 0001",1989-02-23,1989-02-23,1,0
+"former ""comrades-in-arms"" | 0001",1986-01-11,1986-01-11,1,0
+"Former Soldiers/Police | 0001",1995-02-14,1995-02-14,1,0
+"Former Student Hostel | 0001",1995-10-25,1995-10-25,1,0
+"Fred Hampton Unit of the People's Forces | 0001",1976-07-02,1976-07-02,1,0
+"Free All Political Prisoners in Holland | 0001",1992-02-02,1992-02-02,1,0
+"Free and Democratic Society of Eastern Kurdistan (KODAR) | 0001",2015-08-07,2015-08-07,1,0
+"French Armed Islamic Front | 0001",2004-10-08,2004-10-08,1,0
+"Fronte Paesanu Corsu di Liberazione (FPCL) | 0001",1975-07-30,1975-07-30,1,0
+"Ganda Koi | 0001",1994-07-30,1994-07-30,1,0
+"Gang | 0001",1996-11-24,1996-11-24,1,0
+"Georgian Militants | 0001",2001-07-22,2001-07-22,1,0
+"God's Army | 0001",2000-12-31,2000-12-31,1,0
+"God our Father Cult | 0001",1990-03-23,1990-03-23,1,0
+"Grozny Jamaat | 0001",2002-04-18,2002-04-18,1,0
+"Guadalcanal Liberation Front (GLF) | 0001",2002-08-22,2002-08-22,1,0
+"Guatemalan Labor Party (PGT) | 0001",1979-05-01,1979-05-01,1,0
+"Gugama Youth Federation | 0001",2006-05-11,2006-05-11,1,0
+"Gulf Cartel | 0001",2008-09-15,2008-09-15,1,0
+"Gun runners | 0001",1996-05-09,1996-05-09,1,0
+"Gurkha National Liberation Front (GNLF) | 0001",1988-02-22,1988-02-22,1,0
+"Hafiz Gul Bahadur Group | 0001",2014-11-15,2014-11-15,1,0
+"Hamawand Tribe | 0001",1992-05-05,1992-05-05,1,0
+"Hamza Combat Group against Atheism and Heresy | 0001",2014-07-20,2014-07-20,1,0
+"Hatikvah Leumi or National Hope | 0001",1980-12-10,1980-12-10,1,0
+"Hezbollah Palestine | 0001",1992-08-04,1992-08-04,1,0
+"Human Rights Renewal Movement (Renovacion por los Derechos Humanos) | 0001",1999-06-26,1999-06-26,1,0
+"Ijaw militants | 0001",2005-06-15,2005-06-15,1,0
+"Independence Advocates | 0001",1984-11-17,1984-11-17,1,0
+"Iranian dissident group | 0001",1986-12-29,1986-12-29,1,0
+"Iraq's Jihadist Leagues | 0001",2008-03-18,2008-03-18,1,0
+"Iraqis | 0001",1982-01-09,1982-01-09,1,0
+"Islamic Army in Iraq (al-Jaish al-Islami fi al-Iraq) | 0001",2005-04-21,2005-04-21,1,0
+"Islamic Fateh | 0001",2003-01-20,2003-01-20,1,0
+"Islamic Movement (Nigeria) | 0001",2015-12-12,2015-12-12,1,0
+"Islamic Mujahidin | 0001",1992-05-06,1992-05-06,1,0
+"Islamic Revival Movement | 0001",1995-09-28,1995-09-28,1,0
+"Islamic State of Iraq (ISI) | 0001",2007-09-23,2007-09-23,1,0
+"Islamic Tendency | 0001",2006-07-04,2006-07-04,1,0
+"Israeli Extremists | 0001",2015-10-13,2015-10-13,1,0
+"Itsekiri | 0001",2004-04-22,2004-04-22,1,0
+"Jaish al-Fatah (Syria) | 0001",2015-10-19,2015-10-19,1,0
+"Jaish Tahkim al-Din | 0001",2014-04-29,2014-04-29,1,0
+"Jaljala Army | 0001",2012-08-05,2012-08-05,1,0
+"Janatantrik Terai Madhesh Mukti Morcha (JTMMM) | 0001",2011-09-05,2011-09-05,1,0
+"Janatantrik Terai Mukti Morcha- Rajan Mukti (JTMM-R) | 0001",2008-10-13,2008-10-13,1,0
+"Japanese Red Army (JRA) | 0001",1988-04-14,1988-04-14,1,0
+"Jarrai | 0001",1999-04-30,1999-04-30,1,0
+"Jaysh al-Islam (Syria) | 0001",2015-03-22,2015-03-22,1,0
+"Jharkhand Liberation Tigers (JLT) | 0001",2011-01-30,2011-01-30,1,0
+"Jihad Brigades | 0001",1987-04-27,1987-04-27,1,0
+"Joint Meeting Parties (JMP) | 0001",2011-07-03,2011-07-03,1,0
+"Jundallah | 0001",2012-11-18,2012-11-18,1,0
+"Justice and Equality Movement (JEM) | 0001",2012-11-09,2012-11-09,1,0
+"Kachin Insurgents | 0001",1989-03-04,1989-03-04,1,0
+"Kaingang Indians | 0001",1996-07-16,1996-07-16,1,0
+"Kaitseliit Paramiltary Group | 0001",1992-07-14,1992-07-14,1,0
+"Kamal Udwan Unit of Palestinians | 0001",1981-07-14,1981-07-14,1,0
+"Kampuchean Peoples National Liberation Army | 0001",1989-03-25,1989-03-25,1,0
+"Kanglei Yawol Kanna Lup (KYKL) | 0001",2003-02-10,2003-02-10,1,0
+"Karbi People's Liberation Tigers (KPLT) | 0001",2011-08-14,2011-08-14,1,0
+"Kashmiri Hezbollah | 0001",1992-04-09,1992-04-09,1,0
+"Kenya African National Union (KANU) | 0001",1995-08-10,1995-08-10,1,0
+"Khalid ibn Walid | 0001",1985-06-14,1985-06-14,1,0
+"Khmer Bandits | 0001",1992-08-18,1992-08-18,1,0
+"Khmer Serei Guerrillas | 0001",1980-03-27,1980-03-27,1,0
+"Khristos Kasimis | 0001",1985-09-14,1985-09-14,1,0
+"Kisii Activists | 0001",1997-12-19,1997-12-19,1,0
+"Knights Templar (Caballeros Templarios) | 0001",2012-05-31,2012-05-31,1,0
+"Kuki Revolutionary Army (KRA) | 0001",2002-05-27,2002-05-27,1,0
+"Kuki tribesmen | 0001",1997-10-29,1997-10-29,1,0
+"Kurdistan Freedom Hawks (TAK) | 0001",2012-08-09,2012-08-09,1,0
+"Lashkar-e-Jhangvi | 0001",2015-12-01,2015-12-01,1,0
+"Lebanese Arab Army | 0001",1982-04-18,1982-04-18,1,0
+"Lebanese Resistance Group | 0001",1983-08-05,1983-08-05,1,0
+"Lesotho Liberation Army (LLA) | 0001",1983-07-06,1983-07-06,1,0
+"Liberation Battalion | 0001",1987-11-17,1987-11-17,1,0
+"Liberation Hawks | 0001",1987-03-29,1987-03-29,1,0
+"Liberation War Veterans Association | 0001",2001-03-01,2001-03-01,1,0
+"Libya Shield Force | 0001",2014-11-11,2014-11-11,1,0
+"Lithuanian Land Guard | 0001",1992-05-15,1992-05-15,1,0
+"Liwa al-Islam | 0001",2013-02-21,2013-02-21,1,0
+"Liwa al-Sham | 0001",2013-07-01,2013-07-01,1,0
+"Local Residents | 0001",1992-06-24,1992-06-24,1,0
+"Madhesi People’s Rights Forum (MPRF) | 0001",2011-04-18,2011-04-18,1,0
+"Mahaz-e-Milli Islami Afghanistan | 0001",1991-09-23,1991-09-23,1,0
+"Mahidi | 0001",1999-07-15,1999-07-15,1,0
+"Mahsud Tribe | 0001",2005-03-01,2005-03-01,1,0
+"Mai Mai Bakata Katanga Militia | 0001",2014-10-04,2014-10-04,1,0
+"Mai Mai Simba Militia | 0001",2012-05-04,2012-05-04,1,0
+"Majlis-e-Askari | 0001",2015-10-27,2015-10-27,1,0
+"Major Muhammad Zuhnyn Group | 0001",1986-06-28,1986-06-28,1,0
+"Makhachkala Gang | 0001",2013-09-03,2013-09-03,1,0
+"Malaysian Communist Party | 0001",1988-02-22,1988-02-22,1,0
+"Mandela Soccer Club | 0001",1989-02-23,1989-02-23,1,0
+"Manipur Naga People's Army (MNPA) | 0001",2014-01-04,2014-01-04,1,0
+"Manuel Jose Arce Commando | 0001",1988-10-19,1988-10-19,1,0
+"Marhan Clan | 0001",2001-01-28,2001-01-28,1,0
+"Martyr Ahmad Alishuay B Group | 0001",1989-03-16,1989-03-16,1,0
+"Martyr Riyad Taha Group | 0001",1989-10-19,1989-10-19,1,0
+"Marwan Al-Qawasimi and Amir Abu-Ayshah Group | 0001",2015-01-14,2015-01-14,1,0
+"Mawlawi and Mansour Group | 0001",2014-10-24,2014-10-24,1,0
+"Militant Welsh | 0001",1981-10-26,1981-10-26,1,0
+"Militia Members | 0001",2003-05-01,2003-05-01,1,0
+"Miscreants | 0001",2011-11-06,2011-11-06,1,0
+"Miskito Indian Organization | 0001",1986-03-22,1986-03-22,1,0
+"Misrata Brigades | 0001",2014-12-17,2014-12-17,1,0
+"Misseriya Arab Tribesmen | 0001",2015-03-02,2015-03-02,1,0
+"MLA | 0001",1984-04-10,1984-04-10,1,0
+"Mombasa Republican Council (MRC) | 0001",2014-11-02,2014-11-02,1,0
+"Movement for Democratic Change (MDC) | 0001",2002-06-08,2002-06-08,1,0
+"Movement for Rebuilding Fatah | 0001",1983-08-20,1983-08-20,1,0
+"Movement for Self-Determination | 0001",1995-08-31,1995-08-31,1,0
+"Movement of Niger People for Justice (MNJ) | 0001",2007-08-21,2007-08-21,1,0
+"Movement of the Revolutionary Left (MIR) (Chile) | 0001",1981-10-16,1981-10-16,1,0
+"Mozambique Liberation Front (FRELIMO) | 0001",1992-04-03,1992-04-03,1,0
+"Mujahedeen Shura Council | 0001",2005-04-30,2005-04-30,1,0
+"Munadil al-Jumalyi Brigade | 0001",2008-03-17,2008-03-17,1,0
+"Naga National Council (NNC) | 0001",2011-06-04,2011-06-04,1,0
+"National Council of Maubere Resistance | 0001",1996-01-09,1996-01-09,1,0
+"National Democratic Alliance of Sudan | 0001",1999-03-31,1999-03-31,1,0
+"National Democratic Front-Bicol (NDF-Bicol) | 0001",2014-11-14,2014-11-14,1,0
+"National Front for the Salvation of Libya | 0001",1984-05-13,1984-05-13,1,0
+"National Liberation Army (NLA) (Macedonia) | 0001",2001-11-28,2001-11-28,1,0
+"National Liberation Army (Peru) | 0001",1989-02-06,1989-02-06,1,0
+"National Movement of Iranian Resistance | 0001",1984-09-30,1984-09-30,1,0
+"National Organization of Cypriot Fighters (EOKA) | 0001",1980-04-01,1980-04-01,1,0
+"National Resistance Movement (NRM) | 0001",1985-06-23,1985-06-23,1,0
+"Nationalist Integrationist Front (FNI) | 0001",2005-06-02,2005-06-02,1,0
+"Naxalites | 0001",1982-06-04,1982-06-04,1,0
+"Neo-Fascists | 0001",1981-02-05,1981-02-05,1,0
+"Nepali Congress Party (NC) | 0001",1997-06-10,1997-06-10,1,0
+"Nestor Paz Zamora Commission (CNPZ) | 0001",1990-10-11,1990-10-11,1,0
+"New Partisans Movement | 0001",1977-01-11,1977-01-11,1,0
+"New World Liberation Front (NWLF) | 0001",1975-02-04,1975-02-04,1,0
+"New Year's Gang | 0001",1970-08-24,1970-08-24,1,0
+"Nicaraguan  Revolutionary Armed Force | 0001",1984-04-01,1984-04-01,1,0
+"Nicaraguan Counter Revolutionaries (group unk) | 0001",1981-10-16,1981-10-16,1,0
+"Northern Terror Front | 0001",1986-01-29,1986-01-29,1,0
+"Nyatura Militia | 0001",2015-12-30,2015-12-30,1,0
+"Ogaden National Liberation Front (ONLF) | 0001",2008-06-29,2008-06-29,1,0
+"Okinawa Liberation League | 0001",1975-07-23,1975-07-23,1,0
+"Ombatse Cult | 0001",2013-09-17,2013-09-17,1,0
+"Omega-7 | 0001",1979-11-25,1979-11-25,1,0
+"Opposition Militants | 0001",1996-04-09,1996-04-09,1,0
+"Organization of Volunteers for the Puerto Rican Revolution | 0001",1985-11-06,1985-11-06,1,0
+"Organized Proletarian Communists | 0001",1977-10-03,1977-10-03,1,0
+"Pakistani People's Party (PPP) | 0001",1990-03-14,1990-03-14,1,0
+"Palestine Liberation Front (PLF) | 0001",1979-07-08,1979-07-08,1,0
+"Palestinian Forces | 0001",1986-03-04,1986-03-04,1,0
+"Panthic Committee | 0001",1991-02-12,1991-02-12,1,0
+"Parbatya Chattagram Jana Sanghati Samity (PCJSS) - Bangladesh | 0001",2009-09-02,2009-09-02,1,0
+"Patriotic Liberation Front (FPL) | 0001",1979-10-18,1979-10-18,1,0
+"Patriotic Resistance Front in Ituri (FRPI) | 0001",2015-03-21,2015-03-21,1,0
+"Peasant protesters | 0001",1996-08-02,1996-08-02,1,0
+"People's Amn Committee | 0001",2013-06-05,2013-06-05,1,0
+"People's Democratic Party (PDP) | 0001",2014-08-08,2014-08-08,1,0
+"People's Fatherland Movement | 0001",1992-03-29,1992-03-29,1,0
+"People's Revolutionary Army (ERP) (El Salvador) | 0001",1979-02-01,1979-02-01,1,0
+"People's Revolutionary Party of Kangleipak (PREPAK) | 0001",2012-01-16,2012-01-16,1,0
+"People's Sovereignty Party (PDR) | 0001",1999-05-28,1999-05-28,1,0
+"Plowshares | 0001",1983-12-04,1983-12-04,1,0
+"Popular Anti-Communist Militias | 0001",1980-07-22,1980-07-22,1,0
+"Popular Forces of April 25 | 0001",1986-05-17,1986-05-17,1,0
+"Popular Front for the Liberation of Palestine, Gen Cmd (PFLP-GC) | 0001",1987-11-25,1987-11-25,1,0
+"Popular Front for the Liberation of the Sahara | 0001",1994-05-16,1994-05-16,1,0
+"Popular Movement for the Liberation of Cabinda | 0001",1979-08-01,1979-08-01,1,0
+"Popular Resistance Army (PRA) | 0001",1981-04-22,1981-04-22,1,0
+"Popular Resistance Front (FPR) | 0001",1989-01-23,1989-01-23,1,0
+"Popular Resistance Sabotage Group | 0001",1974-06-02,1974-06-02,1,0
+"PORE | 0001",1977-12-23,1977-12-23,1,0
+"Pro-Libyan | 0001",1986-12-03,1986-12-03,1,0
+"Pro Hartal Activists | 0001",2015-02-26,2015-02-26,1,0
+"Qaddaffis | 0001",1981-07-17,1981-07-17,1,0
+"Quartermoon Society | 0001",1970-10-08,1970-10-08,1,0
+"Rafallah al-Sahati Brigade | 0001",2014-06-25,2014-06-25,1,0
+"Rashtriya Swayamsevak Sangh | 0001",2013-04-06,2013-04-06,1,0
+"Rebel Military Unit | 0001",2000-11-02,2000-11-02,1,0
+"Red Army for the Liberation of Catalonia | 0001",1987-12-26,1987-12-26,1,0
+"Red Cell | 0001",1976-06-01,1976-06-01,1,0
+"Red Hand Commandos | 0001",1995-09-28,1995-09-28,1,0
+"Red Hand Defenders (RHD) | 0001",1999-06-05,1999-06-05,1,0
+"Reform of the Armed Forces Movement | 0001",1990-12-21,1990-12-21,1,0
+"Resistance, Liberation and Independence Organization (AAA) | 0001",1972-12-07,1972-12-07,1,0
+"Revolutionary Armed Forces- Argentina (FAR-A) | 0001",1971-04-29,1971-04-29,1,0
+"Revolutionary Armed Forces (FAR) | 0001",1983-12-14,1983-12-14,1,0
+"Revolutionary Army | 0001",2015-04-28,2015-04-28,1,0
+"Revolutionary Commandos of Solidarity | 0001",1977-04-11,1977-04-11,1,0
+"Revolutionary Communist Youth Brigade (RCYB) | 0001",1981-02-09,1981-02-09,1,0
+"Revolutionary Eelam Organization (EROS) | 0001",1988-04-18,1988-04-18,1,0
+"Revolutionary Front | 0001",2012-02-26,2012-02-26,1,0
+"Revolutionary Punishment Movement | 0001",2015-08-29,2015-08-29,1,0
+"Revolutionary United Front Movement | 0001",1989-02-18,1989-02-18,1,0
+"Right-Wing Group | 0001",1985-09-25,1985-09-25,1,0
+"Rival Bangledesh Chhatra League Faction | 0001",1995-06-28,1995-06-28,1,0
+"Rival clan | 0001",1997-08-23,1997-08-23,1,0
+"Rival Party Members | 0001",1994-11-15,1994-11-15,1,0
+"Rival peasant band | 0001",1996-01-31,1996-01-31,1,0
+"Rival Soccer Clubs | 0001",1994-11-20,1994-11-20,1,0
+"Rival Zulu Group, name not stated | 0001",1994-02-20,1994-02-20,1,0
+"Rohingya Solidarity Organization | 0001",2012-11-05,2012-11-05,1,0
+"ROSADO-SOTO Command | 0001",1979-02-10,1979-02-10,1,0
+"Rwenzururu Rebels | 0001",1990-03-04,1990-03-04,1,0
+"Saharan Revolutionary Armed Front (FARS) | 0001",1997-09-20,1997-09-20,1,0
+"Saif-ul-Muslimeen | 0001",2003-03-29,2003-03-29,1,0
+"Salafi Daawa Group | 0001",2004-11-28,2004-11-28,1,0
+"Sandinistas | 0001",1983-03-26,1983-03-26,1,0
+"Sanghiya Limbuwan Committee (SLC) | 0001",2011-05-11,2011-05-11,1,0
+"Saudi Hezbollah | 0001",1996-06-25,1996-06-25,1,0
+"Save Kashmir Movement | 0001",2002-12-20,2002-12-20,1,0
+"Scottish National Liberation Army | 0001",1983-12-10,1983-12-10,1,0
+"Scottish Socialist Republican League | 0001",1981-01-08,1981-01-08,1,0
+"Secret Organization Zero | 0001",1974-04-13,1974-04-13,1,0
+"Self Defense Forces | 0001",1996-07-23,1996-07-23,1,0
+"September 11 Commandos | 0001",1990-09-04,1990-09-04,1,0
+"Serbian guerrillas | 0001",1992-03-09,1992-03-09,1,0
+"Servants of Islam Organization | 0001",1992-07-19,1992-07-19,1,0
+"Shabelle Valley militia | 0001",2012-01-02,2012-01-02,1,0
+"Shabwah Province of the Islamic State | 0001",2015-04-14,2015-04-14,1,0
+"Shan State Army - North (SSA-N) | 0001",2015-11-09,2015-11-09,1,0
+"Shaykh Hassan Khalid Forces | 0001",1989-06-22,1989-06-22,1,0
+"Sipah-e-Sahaba/Pakistan (SSP) | 0001",1994-12-13,1994-12-13,1,0
+"Skinheads | 0001",2006-04-13,2006-04-13,1,0
+"Somali National Alliance | 0001",1992-09-23,1992-09-23,1,0
+"Somali National Movement | 0001",1989-09-02,1989-09-02,1,0
+"Somozists | 0001",1980-12-21,1980-12-21,1,0
+"South Sudan Armed Forces (SSAF) | 0001",2015-12-05,2015-12-05,1,0
+"Strikers | 0001",1970-02-09,1970-02-09,1,0
+"Students | 0001",1992-06-18,1992-06-18,1,0
+"Students Islamic Movement of India (SIMI) | 0001",2014-12-06,2014-12-06,1,0
+"Sudan Liberation Army-Minni Minawi (SLA-MM) | 0001",2012-04-18,2012-04-18,1,0
+"Sudan Revolutionary Front (SRF) | 0001",2013-05-31,2013-05-31,1,0
+"Sudanese Rebels | 0001",2012-04-24,2012-04-24,1,0
+"Supporters of Joshua Nkomo | 0001",1982-08-05,1982-08-05,1,0
+"Sword of Islam | 0001",1999-02-09,1999-02-09,1,0
+"Syrian Army deserters | 0001",2012-01-30,2012-01-30,1,0
+"Syrian Mujahideen | 0001",2013-06-16,2013-06-16,1,0
+"Ta'ang National Liberation Army (TNLA) | 0001",2014-12-10,2014-12-10,1,0
+"Tajamo Ansar al-Islam | 0001",2012-09-26,2012-09-26,1,0
+"Tanyus Shanin Armed Unit | 0001",1987-10-29,1987-10-29,1,0
+"Tanzeem Ittehad - I - Ulema Qabail (Tiuq)Tribesmen | 0001",1995-08-12,1995-08-12,1,0
+"Tayeb Al-Afghani's Islamist Group | 0001",1991-12-07,1991-12-07,1,0
+"Tehrik-e-Khilafat | 0001",2014-02-14,2014-02-14,1,0
+"Tehrik al-Mojahedin | 0001",2015-10-14,2015-10-14,1,0
+"Tepi Youth | 0001",2015-10-28,2015-10-28,1,0
+"Terai Army | 0001",2008-05-14,2008-05-14,1,0
+"Terra Lliure | 0001",1982-08-21,1982-08-21,1,0
+"Terrorists | 0001",1981-09-07,1981-09-07,1,0
+"The Extraditables | 0001",1989-09-05,1989-09-05,1,0
+"The New Irish Republican Army | 0001",2015-05-31,2015-05-31,1,0
+"The Order II (Bruder Schweigen Strike Force II) | 0001",1986-03-06,1986-03-06,1,0
+"Tribal guerrillas | 0001",1997-04-30,1997-04-30,1,0
+"Tripura National Volunteers (TNV) | 0001",1984-02-01,1984-02-01,1,0
+"Tritiya Prastuti Committee (India) | 0001",2010-02-10,2010-02-10,1,0
+"Tulawie Clan | 0001",1995-05-08,1995-05-08,1,0
+"Tupamaros (Uruguay) | 0001",1970-05-29,1970-05-29,1,0
+"Turkish Islamic Jihad | 0001",1991-10-28,1991-10-28,1,0
+"Uganda Freedom Movement (UFM) | 0001",1981-05-10,1981-05-10,1,0
+"Uganda People's Army | 0001",1988-09-17,1988-09-17,1,0
+"Uighur Separatists | 0001",2005-01-20,2005-01-20,1,0
+"Ukrainian Nationalist Group | 0001",2014-10-20,2014-10-20,1,0
+"Union of Congolese Patriots (UPC) | 0001",2012-06-05,2012-06-05,1,0
+"Union of Revolutionary Communists in Turkey (TIKB) | 0001",1999-09-28,1999-09-28,1,0
+"United Democratic Liberation Army (UDLA) | 0001",2011-09-05,2011-09-05,1,0
+"United Front for Democracy Against Dictatorship | 0001",2014-04-01,2014-04-01,1,0
+"United Kuki Liberation Front (UKLF) - India | 0001",2010-11-24,2010-11-24,1,0
+"United Liberation Movement for Democracy in Liberia (ULIMO) | 0001",1992-03-29,1992-03-29,1,0
+"United Nasirite Organizaiton | 0001",1986-08-04,1986-08-04,1,0
+"United National Liberation Front of WESEA (UNLFW) | 0001",2015-05-03,2015-05-03,1,0
+"United Popular Action Movement | 0001",1992-08-05,1992-08-05,1,0
+"United Students Forum | 0001",1994-07-26,1994-07-26,1,0
+"Vietnamese | 0001",1997-03-04,1997-03-04,1,0
+"Villagers | 0001",1995-05-22,1995-05-22,1,0
+"Vishwa Hindu Parishad (VHP) | 0001",2001-08-06,2001-08-06,1,0
+"Welsh Extremists | 0001",1970-09-20,1970-09-20,1,0
+"West Indonesia Mujahideen | 0001",2015-03-23,2015-03-23,1,0
+"White Mercenaries | 0001",1989-12-04,1989-12-04,1,0
+"White Wolves (UK) | 0001",1999-04-30,1999-04-30,1,0
+"Wolves of Islam | 0001",1998-10-03,1998-10-03,1,0
+"Youth of the Land of Egypt | 0001",2014-11-12,2014-11-12,1,0
+"Zapatista National Liberation Army | 0001",1994-01-01,1994-01-01,1,0
+"Zetas | 0001",2012-06-13,2012-06-13,1,0
+"Zimbabwe Guerrillas | 0001",1978-09-07,1978-09-07,1,0
+"Zionist Resistance Fighters | 0001",1999-11-22,1999-11-22,1,0
+"Zomi Revolutionary Army (ZRA) | 0001",2014-03-29,2014-03-29,1,0

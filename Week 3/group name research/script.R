@@ -39,16 +39,23 @@ groups_total <- data %>%
          Kills = mean_number_kills)
 
 # Get the top 30 groups with longer periods, incidents and killings
-groups_total_top <- bind_rows(top_n(groups_total, 30, Incidents),
-                              top_n(groups_total, 30, Kills),
-                              top_n(groups_total, 30, Duration)) %>%
-  distinct(Group, .keep_all = TRUE)
+groups_total_top <-
+  bind_rows(top_n(groups_region %>% group_by(Region), 30, Incidents),
+            top_n(groups_region %>% group_by(Region), 30, Kills),
+            top_n(groups_region %>% group_by(Region), 30, Duration))
+
+groups_total_top <- unique(groups_total_top$Group)
+
+#groups_total_top <- bind_rows(top_n(groups_total, 30, Incidents),
+#                              top_n(groups_total, 30, Kills),
+#                              top_n(groups_total, 30, Duration)) %>%
+#  distinct(Group, .keep_all = TRUE)
 
 groups_region_top <-
   bind_rows(top_n(groups_region %>% group_by(Region), 30, Incidents),
             top_n(groups_region %>% group_by(Region), 30, Kills),
             top_n(groups_region %>% group_by(Region), 30, Duration)) %>%
-  distinct(Group, .keep_all = TRUE)
+  distinct(Region, Group, .keep_all = TRUE)
   
 
 write.csv(groups_region_top, "top_groups_region.csv", row.names = FALSE, fileEncoding = "UTF-8")

@@ -95,3 +95,4 @@ ggplot(data1, aes(x = reorder(weaptype1_txt, count), y = count)) +
   coord_flip() + 
   xlab("Group name") +
   ylab("Incidents")
+

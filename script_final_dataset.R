@@ -7,6 +7,10 @@ library(openxlsx)
 
 mydf <- read.xlsx("globalterrorismdb_0616dist.xlsx", sheet = 1, startRow = 1, colNames = TRUE)
 
+### added by Miguel:
+final_group_names <- read.csv("final_group_names.csv")
+###
+
 colnames(mydf)
 na <- is.na(mydf)
 
@@ -79,4 +83,9 @@ new_df <- mydf[,variables]
 colnames(new_df)
 
 new_df <- new_df %>% filter(doubtterr != 1)
+
+### Added my Miguel
+new_df <- new_df[new_df$gname %in% final_group_names$x,]
+###
+
 write.csv(new_df, "terrorism.csv", fileEncoding = "UTF-8", row.names=FALSE)

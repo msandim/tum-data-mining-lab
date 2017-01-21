@@ -8,7 +8,8 @@ library(openxlsx)
 mydf <- read.xlsx("globalterrorismdb_0616dist.xlsx", sheet = 1, startRow = 1, colNames = TRUE)
 
 ### added by Miguel:
-final_group_names <- read.csv("final_group_names.csv")
+final_group_names <- read.csv("final_group_names.csv", stringsAsFactors = FALSE)
+final_group_names <- rbind(final_group_names, "Other")
 ###
 
 colnames(mydf)

@@ -4,6 +4,7 @@ library(dplyr)
 df <- read.csv("../terrorism.csv", stringsAsFactors = FALSE)
 
 top_names <- df %>%
+  filter(gname != "Other") %>%
   group_by(region_txt, gname) %>%
   summarise(freq = n()) %>%
   arrange(region_txt, desc(freq)) %>%
@@ -41,6 +42,17 @@ df[is.na(df$ransompaid), "ransompaid"] <- df %>% filter(ransompaid != -99) %>% .
 df[is.na(df$nreleased), "nreleased"] <- 0
 df[is.na(df$nreleased), "nreleased"] <- df %>% filter(nreleased != -99) %>% .$nreleased %>% median(na.rm = TRUE)
 
+### Attack Types
+
+
+### Target Types
+
+# Nationalities:
+df[df$natlty1_txt == ".", "natlty1_txt"] <- "Unknown"
+
+## Weapon types
+df[df$weaptype1_txt == "Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)", "weaptype1_txt"] <- "Vehicle"
+df[df$weapsubtype1_txt == ".", "weapsubtype1_txt"] <- "Unknown"
 
 write.csv(df
           %>% select(iyear,
@@ -60,6 +72,15 @@ write.csv(df
                      ransomamt,
                      ransompaid,
                      nreleased,
+                     
+                     # new categorical variables:
+                     attacktype1_txt,
+                     targtype1_txt,
+                     natlty1_txt,
+                     weaptype1_txt,
+                     weapsubtype1_txt,
+                     
+                     
                      region_txt,
                      gname), "terrorism_cleaned_group.csv", fileEncoding = "UTF-8", row.names=FALSE)
 
